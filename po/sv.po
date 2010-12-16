@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:37+0200\n"
+"POT-Creation-Date: 2010-11-13 02:10+0100\n"
 "PO-Revision-Date: 2010-10-03 12:37+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. [multiplayer_side]: id=Random
@@ -247,52 +247,52 @@ msgid ""
 msgstr ""
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/abilities.cfg:325
+#: Era_of_Magic/abilities.cfg:325 Era_of_Magic/abilities.cfg:328
 msgid "revenge"
 msgstr ""
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/abilities.cfg:327
+#: Era_of_Magic/abilities.cfg:327 Era_of_Magic/abilities.cfg:330
 msgid ""
 "revenge:\n"
 "The unit has always a 100% chance to hit, during retalitation."
 msgstr ""
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/abilities.cfg:340
+#: Era_of_Magic/abilities.cfg:343
 msgid "kamikaze"
 msgstr ""
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/abilities.cfg:341
+#: Era_of_Magic/abilities.cfg:344
 msgid ""
 "Kamikaze: this unit always hits a target when attacking, but it dies "
 "instantly."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:364
+#: Era_of_Magic/abilities.cfg:367
 msgid "Hit and Run"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:366
+#: Era_of_Magic/abilities.cfg:369
 msgid ""
 "Hit and Run:\n"
 "This unit gains 3 moves back after attacking, but cannot attack again."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:380
+#: Era_of_Magic/abilities.cfg:383
 msgid "FLEE!"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:390
+#: Era_of_Magic/abilities.cfg:393
 msgid "mountain ambush"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:391
+#: Era_of_Magic/abilities.cfg:394
 msgid " mountain ambush"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:395
+#: Era_of_Magic/abilities.cfg:398
 msgid ""
 "Mountain Ambush:\n"
 "This unit can hide in mountains and hills, and remain undetected by its "
@@ -303,7 +303,7 @@ msgid ""
 "immediately loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:399
+#: Era_of_Magic/abilities.cfg:402
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -313,71 +313,71 @@ msgid ""
 "immediately loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:417
+#: Era_of_Magic/abilities.cfg:420
 msgid "Fury"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:419
+#: Era_of_Magic/abilities.cfg:422
 msgid ""
 "Fury:\n"
 "This unit can attack another after killing an enemy."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:440
+#: Era_of_Magic/abilities.cfg:443
 msgid "FURY!"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:522
+#: Era_of_Magic/abilities.cfg:525
 msgid "Furious death"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:523
+#: Era_of_Magic/abilities.cfg:526
 msgid ""
 "Furious Death: When this unit dies, it flies into a fury. The unit with this "
 "ability atacks all adjecent units and then it finally dies."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:537 Era_of_Magic/abilities.cfg:538
+#: Era_of_Magic/abilities.cfg:540 Era_of_Magic/abilities.cfg:541
 msgid "battlefrenzy"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:539
+#: Era_of_Magic/abilities.cfg:542
 msgid ""
 "Battlefrenzy: When this attack is used, this units gets an extra strike and "
 "additional damage (+2) after each successful hit. Does not work on defence."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:540
+#: Era_of_Magic/abilities.cfg:543
 msgid ""
 "Battlefrenzy: This unit gets one extra strike and additional damage (+2) "
 "with each hit during attack. Does not work on defense."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:648
+#: Era_of_Magic/abilities.cfg:651
 msgid "Hard landing"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:649
+#: Era_of_Magic/abilities.cfg:652
 msgid ""
 "Hard landing: When this large unit is destroyed, it falls on a ground "
 "dealing damage to all adjecent units. "
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:656
+#: Era_of_Magic/abilities.cfg:659
 msgid "Parachute"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:657
+#: Era_of_Magic/abilities.cfg:660
 msgid ""
 "Parachute: The pilot of this machine is equipped with parachute and he can "
 "survive a destruction of his vehicle."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:685
+#: Era_of_Magic/abilities.cfg:688
 msgid "Repairs +5"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:689
+#: Era_of_Magic/abilities.cfg:692
 msgid ""
 "Repairs +5:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
@@ -386,11 +386,11 @@ msgid ""
 "A unit cared for by this healer may heal up to 5 HP per turn."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:706
+#: Era_of_Magic/abilities.cfg:709
 msgid "Repairs +8"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:710
+#: Era_of_Magic/abilities.cfg:713
 msgid ""
 "Repairs +8:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
@@ -400,23 +400,23 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Era_of_Magic/abilities.cfg:754 Era_of_Magic/abilities.cfg:755
+#: Era_of_Magic/abilities.cfg:757 Era_of_Magic/abilities.cfg:758
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
 msgid "grenade"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:756 Era_of_Magic/abilities.cfg:757
+#: Era_of_Magic/abilities.cfg:759 Era_of_Magic/abilities.cfg:760
 msgid ""
 "Grenade: When this attack is used, all units adjecent to a target get "
 "damage. Does not work on defense."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:764 Era_of_Magic/abilities.cfg:880
+#: Era_of_Magic/abilities.cfg:767 Era_of_Magic/abilities.cfg:883
 msgid "Rune Aura"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:766
+#: Era_of_Magic/abilities.cfg:769
 msgid ""
 "Rune Aura:\n"
 "When this ability is activated, all Rune Masters create special auras. "
@@ -426,27 +426,27 @@ msgid ""
 "unit cannot attack."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:815
+#: Era_of_Magic/abilities.cfg:818
 msgid "Activate Aura (24g)"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:839
+#: Era_of_Magic/abilities.cfg:842
 msgid "Activate aura? (cost: 24g)"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:841
+#: Era_of_Magic/abilities.cfg:844
 msgid "No"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:847
+#: Era_of_Magic/abilities.cfg:850
 msgid "Yes"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:861
+#: Era_of_Magic/abilities.cfg:864
 msgid "You don't have enough gold to activate the rune aura!"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:882
+#: Era_of_Magic/abilities.cfg:885
 msgid ""
 "Rune Aura:\n"
 "Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
@@ -454,26 +454,26 @@ msgid ""
 "and arcane resistance."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:907 Era_of_Magic/abilities.cfg:908
+#: Era_of_Magic/abilities.cfg:910 Era_of_Magic/abilities.cfg:911
 msgid "Swallow +4"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:910 Era_of_Magic/abilities.cfg:912
+#: Era_of_Magic/abilities.cfg:913 Era_of_Magic/abilities.cfg:915
 msgid ""
 "Swallow +4:\n"
 "This unit gains 4 hitpoints added to its current health whenever it kills a "
 "living unit."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:938
+#: Era_of_Magic/abilities.cfg:941
 msgid "4"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:962 Era_of_Magic/abilities.cfg:963
+#: Era_of_Magic/abilities.cfg:965 Era_of_Magic/abilities.cfg:966
 msgid "swamp ambush"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:967
+#: Era_of_Magic/abilities.cfg:970
 msgid ""
 "Swamp Ambush:\n"
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
@@ -483,7 +483,7 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:971
+#: Era_of_Magic/abilities.cfg:974
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -493,11 +493,11 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:984 Era_of_Magic/abilities.cfg:985
+#: Era_of_Magic/abilities.cfg:987 Era_of_Magic/abilities.cfg:988
 msgid "water ambush"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:989
+#: Era_of_Magic/abilities.cfg:992
 msgid ""
 "water Ambush:\n"
 "This unit can hide in water, and remain undetected by its enemies.\n"
@@ -507,7 +507,7 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:993
+#: Era_of_Magic/abilities.cfg:996
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -517,11 +517,11 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1006 Era_of_Magic/abilities.cfg:1007
+#: Era_of_Magic/abilities.cfg:1009 Era_of_Magic/abilities.cfg:1010
 msgid "cave ambush"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1011
+#: Era_of_Magic/abilities.cfg:1014
 msgid ""
 "Cave Ambush:\n"
 "This unit can hide in cave, and remain undetected by its enemies.\n"
@@ -531,7 +531,7 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1015
+#: Era_of_Magic/abilities.cfg:1018
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -541,33 +541,33 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1029 Era_of_Magic/abilities.cfg:1032
+#: Era_of_Magic/abilities.cfg:1032 Era_of_Magic/abilities.cfg:1035
 msgid "regenerates +4"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1031 Era_of_Magic/abilities.cfg:1034
+#: Era_of_Magic/abilities.cfg:1034 Era_of_Magic/abilities.cfg:1037
 msgid ""
 "Regenerates +4:\n"
 "At the begining of each turn this unit heals +4 hp. If it is poisoned, it "
 "will remove it instead of healing."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1178
+#: Era_of_Magic/abilities.cfg:1181
 msgid "Awake"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1179
+#: Era_of_Magic/abilities.cfg:1182
 msgid ""
 "Awake: if a friendly adjacent unit dies, it is resurrected and remains in "
 "battle with one hitpoint. If it dies again (having one hitpoint), it will be "
 "killed for sure."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1312
+#: Era_of_Magic/abilities.cfg:1315
 msgid "Heals +2"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1316
+#: Era_of_Magic/abilities.cfg:1319
 msgid ""
 "Heals +2:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each "
@@ -576,11 +576,11 @@ msgid ""
 "A unit cared for by this healer may heal up to 2 HP per turn."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1330
+#: Era_of_Magic/abilities.cfg:1333
 msgid "inspire"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1335
+#: Era_of_Magic/abilities.cfg:1338
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
@@ -590,13 +590,13 @@ msgid ""
 "Adjacent friendly level 1 units will do 10% more damage in battle."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1364 Era_of_Magic/abilities.cfg:1400
-#: Era_of_Magic/abilities.cfg:1450
+#: Era_of_Magic/abilities.cfg:1367 Era_of_Magic/abilities.cfg:1403
+#: Era_of_Magic/abilities.cfg:1453
 msgid "awe"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1368 Era_of_Magic/abilities.cfg:1404
-#: Era_of_Magic/abilities.cfg:1454
+#: Era_of_Magic/abilities.cfg:1371 Era_of_Magic/abilities.cfg:1407
+#: Era_of_Magic/abilities.cfg:1457
 msgid ""
 "Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
@@ -608,11 +608,11 @@ msgid ""
 "times the difference in their levels + 15%."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1512 Era_of_Magic/abilities.cfg:1513
+#: Era_of_Magic/abilities.cfg:1515 Era_of_Magic/abilities.cfg:1516
 msgid "banish"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1515 Era_of_Magic/abilities.cfg:1517
+#: Era_of_Magic/abilities.cfg:1518 Era_of_Magic/abilities.cfg:1520
 msgid ""
 "banish:\n"
 "If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
@@ -621,11 +621,11 @@ msgid ""
 "banisher, it'll get completly destroyed. Any other enemy won't be affected."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1660
+#: Era_of_Magic/abilities.cfg:1663
 msgid "circle of banishment"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1664
+#: Era_of_Magic/abilities.cfg:1667
 msgid ""
 "circle of banishment:\n"
 "This unit can affect enemy magical units that are next to it, making them "
@@ -753,7 +753,7 @@ msgstr ""
 #: Era_of_Magic/factions/summoners-magic.cfg:4
 #: Era_of_Magic/factions/summoners-masters.cfg:4
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
-msgid "Summoners"
+msgid "Al-Kamija"
 msgstr ""
 
 #. [multiplayer_side]: id=warlocks_masters, type=I8 Tharis_Greatwarlock
