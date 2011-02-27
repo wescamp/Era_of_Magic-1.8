@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-11-13 02:10+0100\n"
+"POT-Creation-Date: 2010-12-16 14:55+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1001,6 +1001,12 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin
 #: ./Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:4
 msgid "Goblin Warbanner"
+msgstr ""
+
+#. [race]: id=I8 magical
+#. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin
+#: ./Era_of_Magic/units/units.cfg:34 ./Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:19
+msgid ""
 msgstr ""
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
