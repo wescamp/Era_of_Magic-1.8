@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-11-13 02:10+0100\n"
+"POT-Creation-Date: 2011-03-29 06:58+0200\n"
 "PO-Revision-Date: 2010-10-03 12:37+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -48,659 +48,9 @@ msgstr ""
 msgid "Heroes+Magic"
 msgstr ""
 
-#. [regenerate]: id=water
-#: Era_of_Magic/abilities.cfg:8
-msgid "water"
-msgstr ""
-
-#. [regenerate]: id=water
-#: Era_of_Magic/abilities.cfg:10
-msgid ""
-"Made of Water:\n"
-"This unit is made of water. As a result, if it is standing in water, it will "
-"receive 6 hp."
-msgstr ""
-
-#. [regenerate]: id=water
-#: Era_of_Magic/abilities.cfg:11
-msgid "waterhome"
-msgstr ""
-
-#. [regenerate]: id=water
-#: Era_of_Magic/abilities.cfg:13
-msgid ""
-"waterhome:\n"
-"This unit is made of water. If it stands in water, it will receive 6 hp."
-msgstr ""
-
-#. [regenerate]: id=fire
-#: Era_of_Magic/abilities.cfg:28
-msgid "fire"
-msgstr ""
-
-#. [regenerate]: id=fire
-#: Era_of_Magic/abilities.cfg:30
-msgid ""
-"Made of Fire:\n"
-"This unit is made of fire. If it stands in lava, it will recive 6 hp."
-msgstr ""
-
-#. [regenerate]: id=fire
-#: Era_of_Magic/abilities.cfg:31
-msgid "lavahome"
-msgstr ""
-
-#. [regenerate]: id=fire
-#: Era_of_Magic/abilities.cfg:33
-msgid ""
-"lavahome:\n"
-"This unit is made of fire. If it stands in lava, it will recive 6 hp."
-msgstr ""
-
-#. [regenerate]: id=healing
-#: Era_of_Magic/abilities.cfg:48
-msgid "megacircle"
-msgstr ""
-
-#. [regenerate]: id=healing
-#: Era_of_Magic/abilities.cfg:50
-msgid ""
-"megacircle:\n"
-"This unit owns powerful magic circle which affects all units inside. All "
-"friendly units fight better (+125%, +100%, +75%, +50%, +25% - lvl 0, 1, 2, "
-"3, 4) and regenerate themselves."
-msgstr ""
-
-#. [chance_to_hit]: id=circle
-#: Era_of_Magic/abilities.cfg:139
-msgid "always hits"
-msgstr ""
-
-#. [chance_to_hit]: id=circle
-#: Era_of_Magic/abilities.cfg:141
-msgid ""
-"always hits:\n"
-"This attack always has a 100% chance to hit"
-msgstr ""
-
-#. [attacks]: id=nocounter
-#: Era_of_Magic/abilities.cfg:151 Era_of_Magic/abilities.cfg:154
-msgid "no counter-attack"
-msgstr ""
-
-#. [attacks]: id=nocounter
-#: Era_of_Magic/abilities.cfg:153 Era_of_Magic/abilities.cfg:156
-msgid ""
-"no counter-attack:\n"
-"The opponent has always a 0% chance to hit, when this unit is attacking."
-msgstr ""
-
-#. [damage]: id=evasion
-#: Era_of_Magic/abilities.cfg:167 Era_of_Magic/abilities.cfg:168
-msgid "evasion"
-msgstr ""
-
-#. [damage]: id=evasion
-#: Era_of_Magic/abilities.cfg:170
-msgid ""
-"Evasion:\n"
-"When this attack is used offensively, this unit takes one third less damage "
-"in retaliation."
-msgstr ""
-
-#. [damage]: id=evasion
-#: Era_of_Magic/abilities.cfg:172
-msgid ""
-"evasion:\n"
-"When this attack is used offensively, this unit takes one third less damage "
-"in retaliation."
-msgstr ""
-
-#. [leadership]: id=darkaura
-#: Era_of_Magic/abilities.cfg:184
-msgid "dark aura"
-msgstr ""
-
-#. [leadership]: id=darkaura
-#: Era_of_Magic/abilities.cfg:185
-msgid "Dark aura makes all enemy units fight worse (-25% for attack)."
-msgstr ""
-
-#. [heals]: id=healing
-#: Era_of_Magic/abilities.cfg:203
-msgid "ultracures"
-msgstr ""
-
-#. [heals]: id=healing
-#: Era_of_Magic/abilities.cfg:208
-msgid ""
-"Heals +12:\n"
-"Allows the unit to heal adjacent friendly units at the beginning of each "
-"turn.\n"
-"\n"
-"A unit cared for by this healer may heal up to 12 HP per turn.\n"
-"A curer can cure a unit of poison, although that unit will receive no "
-"additional healing on the turn it is cured of the poison."
-msgstr ""
-
-#. [resistance]: id=i8protection
-#: Era_of_Magic/abilities.cfg:229
-msgid "defender"
-msgstr ""
-
-#. [resistance]: id=i8protection
-#: Era_of_Magic/abilities.cfg:231
-msgid ""
-"Defender:\n"
-"Adjacent friendly units receive a +20% bonus to all resistances (up to a "
-"maximum of 40%)."
-msgstr ""
-
-#. [chance_to_hit]: id=precision
-#: Era_of_Magic/abilities.cfg:246
-msgid "precision"
-msgstr ""
-
-#. [chance_to_hit]: id=precision
-#: Era_of_Magic/abilities.cfg:248
-msgid ""
-"precision:\n"
-"This attack always has a 80% chance to hit"
-msgstr ""
-
-#. [resistance]: id=cr
-#: Era_of_Magic/abilities.cfg:260
-msgid "circle of resistance"
-msgstr ""
-
-#. [resistance]: id=cr
-#: Era_of_Magic/abilities.cfg:262
-msgid ""
-"Circle of Resistance:\n"
-"This unit and all adjacent friendly units receive a +20% bonus to fire, cold "
-"and arcane resistance."
-msgstr ""
-
-#. [resistance]: id=deadzone
-#: Era_of_Magic/abilities.cfg:277
-msgid "deadzone"
-msgstr ""
-
-#. [resistance]: id=deadzone
-#: Era_of_Magic/abilities.cfg:279
-msgid ""
-"Deadzone:\n"
-"Adjacent friendly units receive a 99% bonus to fire,cold and arcane "
-"resistance"
-msgstr ""
-
-#. [resistance]: id=coldaura
-#: Era_of_Magic/abilities.cfg:294
-msgid "cold aura"
-msgstr ""
-
-#. [resistance]: id=coldaura
-#: Era_of_Magic/abilities.cfg:296
-msgid ""
-"Cold Aura:\n"
-"Adjacent units receive a 50% bonus to fire resistance and a -25% bonus to "
-"cold resistance. All cold spells are very powerful here."
-msgstr ""
-
-#. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/abilities.cfg:325 Era_of_Magic/abilities.cfg:328
-msgid "revenge"
-msgstr ""
-
-#. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/abilities.cfg:327 Era_of_Magic/abilities.cfg:330
-msgid ""
-"revenge:\n"
-"The unit has always a 100% chance to hit, during retalitation."
-msgstr ""
-
-#. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/abilities.cfg:343
-msgid "kamikaze"
-msgstr ""
-
-#. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/abilities.cfg:344
-msgid ""
-"Kamikaze: this unit always hits a target when attacking, but it dies "
-"instantly."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:367
-msgid "Hit and Run"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:369
-msgid ""
-"Hit and Run:\n"
-"This unit gains 3 moves back after attacking, but cannot attack again."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:383
-msgid "FLEE!"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:393
-msgid "mountain ambush"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:394
-msgid " mountain ambush"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:398
-msgid ""
-"Mountain Ambush:\n"
-"This unit can hide in mountains and hills, and remain undetected by its "
-"enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in mountains or hills, except "
-"if they have units next to it. Any enemy unit that first discovers this unit "
-"immediately loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:402
-msgid ""
-"Ambush:\n"
-"This unit can hide in forest, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in mountains or hills, except "
-"if they have units next to it. Any enemy unit that first discovers this unit "
-"immediately loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:420
-msgid "Fury"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:422
-msgid ""
-"Fury:\n"
-"This unit can attack another after killing an enemy."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:443
-msgid "FURY!"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:525
-msgid "Furious death"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:526
-msgid ""
-"Furious Death: When this unit dies, it flies into a fury. The unit with this "
-"ability atacks all adjecent units and then it finally dies."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:540 Era_of_Magic/abilities.cfg:541
-msgid "battlefrenzy"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:542
-msgid ""
-"Battlefrenzy: When this attack is used, this units gets an extra strike and "
-"additional damage (+2) after each successful hit. Does not work on defence."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:543
-msgid ""
-"Battlefrenzy: This unit gets one extra strike and additional damage (+2) "
-"with each hit during attack. Does not work on defense."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:651
-msgid "Hard landing"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:652
-msgid ""
-"Hard landing: When this large unit is destroyed, it falls on a ground "
-"dealing damage to all adjecent units. "
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:659
-msgid "Parachute"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:660
-msgid ""
-"Parachute: The pilot of this machine is equipped with parachute and he can "
-"survive a destruction of his vehicle."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:688
-msgid "Repairs +5"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:692
-msgid ""
-"Repairs +5:\n"
-"Allows the unit to repair adjacent friendly mechanical units at the "
-"beginning of each turn.\n"
-"\n"
-"A unit cared for by this healer may heal up to 5 HP per turn."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:709
-msgid "Repairs +8"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:713
-msgid ""
-"Repairs +8:\n"
-"Allows the unit to repair adjacent friendly mechanical units at the "
-"beginning of each turn.\n"
-"\n"
-"A unit cared for by this healer may heal up to 8 HP per turn."
-msgstr ""
-
-#. [attack]: type=pierce
-#: Era_of_Magic/abilities.cfg:757 Era_of_Magic/abilities.cfg:758
-#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
-#: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
-msgid "grenade"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:759 Era_of_Magic/abilities.cfg:760
-msgid ""
-"Grenade: When this attack is used, all units adjecent to a target get "
-"damage. Does not work on defense."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:767 Era_of_Magic/abilities.cfg:883
-msgid "Rune Aura"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:769
-msgid ""
-"Rune Aura:\n"
-"When this ability is activated, all Rune Masters create special auras. "
-"Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
-"cold and arcane resistance. Other units receive a -99% bonus to fire, cold "
-"and arcane resistance. The transformation lasts for one turn. Transformated "
-"unit cannot attack."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:818
-msgid "Activate Aura (24g)"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:842
-msgid "Activate aura? (cost: 24g)"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:844
-msgid "No"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:850
-msgid "Yes"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:864
-msgid "You don't have enough gold to activate the rune aura!"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:885
-msgid ""
-"Rune Aura:\n"
-"Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
-"cold and arcane resistance. Other units receive a -99% bonus to fire, cold "
-"and arcane resistance."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:910 Era_of_Magic/abilities.cfg:911
-msgid "Swallow +4"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:913 Era_of_Magic/abilities.cfg:915
-msgid ""
-"Swallow +4:\n"
-"This unit gains 4 hitpoints added to its current health whenever it kills a "
-"living unit."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:941
-msgid "4"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:965 Era_of_Magic/abilities.cfg:966
-msgid "swamp ambush"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:970
-msgid ""
-"Swamp Ambush:\n"
-"This unit can hide in swamp, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in swamp, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:974
-msgid ""
-"Ambush:\n"
-"This unit can hide in forest, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in swamp, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:987 Era_of_Magic/abilities.cfg:988
-msgid "water ambush"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:992
-msgid ""
-"water Ambush:\n"
-"This unit can hide in water, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in water, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:996
-msgid ""
-"Ambush:\n"
-"This unit can hide in forest, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in water, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1009 Era_of_Magic/abilities.cfg:1010
-msgid "cave ambush"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1014
-msgid ""
-"Cave Ambush:\n"
-"This unit can hide in cave, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in cave, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1018
-msgid ""
-"Ambush:\n"
-"This unit can hide in forest, and remain undetected by its enemies.\n"
-"\n"
-"Enemy units cannot see this unit while it is in cave, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1032 Era_of_Magic/abilities.cfg:1035
-msgid "regenerates +4"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1034 Era_of_Magic/abilities.cfg:1037
-msgid ""
-"Regenerates +4:\n"
-"At the begining of each turn this unit heals +4 hp. If it is poisoned, it "
-"will remove it instead of healing."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1181
-msgid "Awake"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1182
-msgid ""
-"Awake: if a friendly adjacent unit dies, it is resurrected and remains in "
-"battle with one hitpoint. If it dies again (having one hitpoint), it will be "
-"killed for sure."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1315
-msgid "Heals +2"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1319
-msgid ""
-"Heals +2:\n"
-"Allows the unit to heal adjacent friendly units at the beginning of each "
-"turn.\n"
-"\n"
-"A unit cared for by this healer may heal up to 2 HP per turn."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1333
-msgid "inspire"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1338
-msgid ""
-"Inspire:\n"
-"This unit can inspire friendly units that are next to it, making them fight "
-"better.\n"
-"\n"
-"Adjacent friendly level 0 units will do 25% more damage in battle.\n"
-"Adjacent friendly level 1 units will do 10% more damage in battle."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1367 Era_of_Magic/abilities.cfg:1403
-#: Era_of_Magic/abilities.cfg:1453
-msgid "awe"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1371 Era_of_Magic/abilities.cfg:1407
-#: Era_of_Magic/abilities.cfg:1457
-msgid ""
-"Awe:\n"
-"This unit can frighten enemy units that are next to it, making them fight "
-"worse.\n"
-"\n"
-"Adjacent enemy units of lower level will do less damage in battle. When a "
-"unit adjacent to, of the same level, or a lower level than, and is an enemy "
-"of the unit with Terror engages in combat, its attacks do 15% less damage "
-"times the difference in their levels + 15%."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1515 Era_of_Magic/abilities.cfg:1516
-msgid "banish"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1518 Era_of_Magic/abilities.cfg:1520
-msgid ""
-"banish:\n"
-"If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
-"'Dimensional Gate', (this happens only if the target is exactly one level "
-"below the banisher). If the enemy is at least two levels below your "
-"banisher, it'll get completly destroyed. Any other enemy won't be affected."
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1663
-msgid "circle of banishment"
-msgstr ""
-
-#: Era_of_Magic/abilities.cfg:1667
-msgid ""
-"circle of banishment:\n"
-"This unit can affect enemy magical units that are next to it, making them "
-"fight worse.\n"
-"\n"
-"Adjacent enemy magical units of lower level will do less damage in battle. "
-"When a unit adjacent to, of the same level, or a lower level than, and is an "
-"enemy of the unit with Circle of Banishment engages in combat, its attacks "
-"do less damage (-40% lvl0, -30% lvl1, -15% lvl2, -10% lvl3)."
-msgstr ""
-
-#. [chance_to_hit]: id=i8bloodlust
-#: Era_of_Magic/bloodlust.cfg:5 Era_of_Magic/bloodlust.cfg:6
-msgid "bloodlust"
-msgstr ""
-
-#. [chance_to_hit]: id=i8bloodlust
-#: Era_of_Magic/bloodlust.cfg:7
-msgid ""
-"Bloodlust: When this attack is used, this units gets an extra strike after "
-"each successful hit."
-msgstr ""
-
-#. [chance_to_hit]: id=i8bloodlust
-#: Era_of_Magic/bloodlust.cfg:8
-msgid ""
-"Bloodlust: This unit gets one extra strike with each hit during attack. Does "
-"not work on defense."
-msgstr ""
-
-#. [damage]: id=i8concentrated
-#. [damage]: id=i8concentrated2
-#. [damage]: id=i8concentrated3
-#. [damage]: id=i8concentrated4
-#: Era_of_Magic/concentrated.cfg:5 Era_of_Magic/concentrated.cfg:6
-#: Era_of_Magic/concentrated.cfg:110 Era_of_Magic/concentrated.cfg:111
-#: Era_of_Magic/concentrated.cfg:215 Era_of_Magic/concentrated.cfg:216
-#: Era_of_Magic/concentrated.cfg:321 Era_of_Magic/concentrated.cfg:322
-msgid "Growing fury"
-msgstr ""
-
-#. [damage]: id=i8concentrated
-#. [damage]: id=i8concentrated2
-#. [damage]: id=i8concentrated3
-#. [damage]: id=i8concentrated4
-#: Era_of_Magic/concentrated.cfg:7 Era_of_Magic/concentrated.cfg:112
-#: Era_of_Magic/concentrated.cfg:217 Era_of_Magic/concentrated.cfg:323
-msgid ""
-"Growing fury: When this attack is used, this units damage increases after "
-"each successful hit (+2)."
-msgstr ""
-
-#. [damage]: id=i8concentrated
-#. [damage]: id=i8concentrated2
-#. [damage]: id=i8concentrated3
-#. [damage]: id=i8concentrated4
-#: Era_of_Magic/concentrated.cfg:8 Era_of_Magic/concentrated.cfg:113
-#: Era_of_Magic/concentrated.cfg:218 Era_of_Magic/concentrated.cfg:324
-msgid ""
-"Concentrated: When this attack is used, this units damage increases after "
-"each successful hit (+2)."
-msgstr ""
-
-#. [damage]: id=agility
-#: Era_of_Magic/doubleattack.cfg:5 Era_of_Magic/doubleattack.cfg:8
-msgid "double attack"
-msgstr ""
-
-#. [damage]: id=agility
-#: Era_of_Magic/doubleattack.cfg:7 Era_of_Magic/doubleattack.cfg:10
-msgid ""
-"Double attack:\n"
-"This unit can attack 2 enemies in one turn, but cannot move from a hex, "
-"where first enemy was attacked."
+#. [language]
+#: Era_of_Magic/english.cfg:4
+msgid "range^kamikaze"
 msgstr ""
 
 #. [multiplayer_side]: id=barbarians, type=I8 Barbarian_OrcishBarbarian
@@ -754,7 +104,7 @@ msgstr ""
 #: Era_of_Magic/factions/summoners-magic.cfg:4
 #: Era_of_Magic/factions/summoners-masters.cfg:4
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
-msgid "Al-Kamija"
+msgid "al-Kamija"
 msgstr ""
 
 #. [multiplayer_side]: id=warlocks_masters, type=I8 Tharis_Greatwarlock
@@ -764,159 +114,6 @@ msgstr ""
 #: Era_of_Magic/factions/warlocks-magic.cfg:4
 #: Era_of_Magic/factions/warlocks-mrpg.cfg:4
 msgid "Tharis"
-msgstr ""
-
-#. [dummy]: id=i8cleave
-#: Era_of_Magic/i8cleave.cfg:147 Era_of_Magic/i8cleave.cfg:300
-#: Era_of_Magic/i8cleave.cfg:452
-msgid "cleave"
-msgstr ""
-
-#. [dummy]: id=i8cleave
-#: Era_of_Magic/i8cleave.cfg:148 Era_of_Magic/i8cleave.cfg:301
-#: Era_of_Magic/i8cleave.cfg:453
-msgid ""
-"Cleave: A unit with this ability can hurt units that are adjacent to the "
-"attacker and the defender at the same time."
-msgstr ""
-
-#: Era_of_Magic/i8cleave.cfg:681 Era_of_Magic/i8cleave.cfg:910
-msgid "Hydra's strike"
-msgstr ""
-
-#: Era_of_Magic/i8cleave.cfg:682 Era_of_Magic/i8cleave.cfg:911
-msgid ""
-"Hydra's strike: This ability allows an owner to do damage to 2 hostile units "
-"standing near a target."
-msgstr ""
-
-#. [leadership]: id=leadership
-#: Era_of_Magic/leaderships.cfg:7
-msgid "Goblin leader"
-msgstr ""
-
-#. [leadership]: id=leadership
-#: Era_of_Magic/leaderships.cfg:11
-msgid ""
-"Goblin leader:\n"
-"This unit can lead our own Goblins that are next to it, making them fight "
-"better.\n"
-"\n"
-"Adjacent own Goblins will do more damage in battle (20% more)."
-msgstr ""
-
-#. [leadership]: id=leadership
-#: Era_of_Magic/leaderships.cfg:27
-msgid "Orcish leader"
-msgstr ""
-
-#. [leadership]: id=leadership
-#: Era_of_Magic/leaderships.cfg:31
-msgid ""
-"Orcish leader:\n"
-"This unit can lead our own Orcs that are next to it, making them fight "
-"better.\n"
-"\n"
-"Adjacent own Orcs will do more damage in battle (20% more)."
-msgstr ""
-
-#. [leadership]: id=leadership
-#: Era_of_Magic/leaderships.cfg:47
-msgid "Troll leader"
-msgstr ""
-
-#. [leadership]: id=leadership
-#: Era_of_Magic/leaderships.cfg:51
-msgid ""
-"Troll leader:\n"
-"This unit can lead our own Trolls that are next to it, making them fight "
-"better. Also ALL adjacent friendly units receive a +30% bonus to fire, cold "
-"and arcane resistance.\n"
-"\n"
-"Adjacent own Trolls will do more damage in battle (20% more) and all "
-"adjecent friendly units gain better magical resistance (30% more applied to "
-"fire, cold and arcane resistance)."
-msgstr ""
-
-#. [set_menu_item]: id=summon_{ID}
-#: Era_of_Magic/summon.cfg:24
-msgid "Summon {DESCRIPTION} ({COST}g)"
-msgstr ""
-
-#. [unstore_unit]
-#: Era_of_Magic/summon.cfg:131 Era_of_Magic/summon.cfg:168
-msgid "+$this_unit.level exp"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Era_of_Magic/summon.cfg:182
-msgid "Error"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Era_of_Magic/summon.cfg:183
-msgid "I have insufficient materials. I am unable to summon."
-msgstr ""
-
-#. [set_menu_item]: id=summon_zhelp
-#: Era_of_Magic/summon.cfg:194
-msgid "Summon Help"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Era_of_Magic/summon.cfg:208
-msgid "Help"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Era_of_Magic/summon.cfg:214
-msgid ""
-"To summon a unit right-click on adjacent hexes near a selected summoner. \n"
-"                    \n"
-"You need all movement points (and remaining attacks) to summon one creature. "
-"You are unable to summon from castles or keeps. A new unit can't be summoned "
-"on water.\n"
-"Every summoning adds +4 to current experience.\n"
-"\n"
-"If there are 2 or more summoners, a new unit will be summoned by the last "
-"selected unit able to summon."
-msgstr ""
-
-#. [dummy]: id=summon_lvl3
-#: Era_of_Magic/summon.cfg:229 Era_of_Magic/summon.cfg:291
-#: Era_of_Magic/summon.cfg:354 Era_of_Magic/summon.cfg:415
-#: Era_of_Magic/summon.cfg:475 Era_of_Magic/summon.cfg:534
-#: Era_of_Magic/summon.cfg:592
-msgid "Summon"
-msgstr ""
-
-#. [dummy]: id=summon_lvl3
-#: Era_of_Magic/summon.cfg:231 Era_of_Magic/summon.cfg:293
-#: Era_of_Magic/summon.cfg:356 Era_of_Magic/summon.cfg:417
-#: Era_of_Magic/summon.cfg:477 Era_of_Magic/summon.cfg:536
-#: Era_of_Magic/summon.cfg:594
-msgid ""
-"Summon:\n"
-"this unit can summon new units near him, but not in villages."
-msgstr ""
-
-#: Era_of_Magic/summon.cfg:283 Era_of_Magic/summon.cfg:348
-#: Era_of_Magic/summon.cfg:404 Era_of_Magic/summon.cfg:468
-#: Era_of_Magic/summon.cfg:527 Era_of_Magic/summon.cfg:585
-#: Era_of_Magic/summon.cfg:643 Era_of_Magic/summon.cfg:705
-msgid ""
-" this unit can create other units in the near free spaces, but not in "
-"villages."
-msgstr ""
-
-#: Era_of_Magic/summon.cfg:654
-msgid "Summon Roc"
-msgstr ""
-
-#: Era_of_Magic/summon.cfg:656
-msgid ""
-"Summon Roc:\n"
-"this unit can summon new units near him, but not in villages."
 msgstr ""
 
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
@@ -936,20 +133,6 @@ msgid ""
 "their new allegiance and is perhaps a reason for their increased power. One "
 "thing about these beasts is a certainty, when facing one in combat it is "
 "best not to get hit."
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:156
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:59
-#: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:55
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticMu.cfg:58
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:29
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:28
-#: Era_of_Magic/units/Barbarians/Barbarian_Cyclop.cfg:28
-#: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:55
-#: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:34
-#: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:72
-msgid "fist"
 msgstr ""
 
 #. [unit_type]: id=I8 Barbarian_AncientCyclop, race=I8 cyclop
@@ -979,7 +162,6 @@ msgstr ""
 #. [unit_type]: id=I8_DB_RangedToadRecruit, race=lizard
 #. [unit_type]: id=I8_DB_Shaman, race=lizard
 #. [unit_type]: id=I8_DB_WyvernGreatLancerRecruit, race=lizard
-#. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #. [unit_type]: id=I8_DB_WyvernGreat, race=monster
 #. [unit_type]: id=I8_DB_WyvernChaos, race=monster
 #. [unit_type]: id=I8_DB_ZSalamander, race=I8 salamander
@@ -991,14 +173,16 @@ msgstr ""
 #. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
 #. [unit_type]: id=I8_DB_GreatLancer, race=lizard
 #. [unit_type]: id=I8_DB_SalamanderGreen, race=I8 salamander
-#. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 dark elf
-#. [unit_type]: id=I8 Tharis_Hunter, race=I8 dark elf
-#. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 dark elf
-#. [unit_type]: id=I8 Tharis_Commander, race=I8 dark elf
-#. [unit_type]: id=I8 Tharis_Blademaster, race=I8 dark elf
-#. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 dark elf
-#. [unit_type]: id=I8 Tharis_Slayer, race=I8 dark elf
-#. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Deephydra, race=monster
+#. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Hunter, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Assassin, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Commander, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Blademaster, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Slayer, race=I8 tharis
+#. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 tharis
 #. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherHeavy, race=human
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherII, race=human
@@ -1042,7 +226,6 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:18
 #: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:19
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreatLancer_recruit.cfg:16
-#: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:20
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:16
 #: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:17
 #: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:18
@@ -1054,8 +237,10 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:19
 #: Era_of_Magic/units/Darkblood/DB_GreatLancer.cfg:21
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:19
+#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:17
 #: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:18
 #: Era_of_Magic/units/Warlocks/Tharis_Hunter.cfg:17
+#: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:21
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:19
 #: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:18
 #: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:19
@@ -1138,22 +323,9 @@ msgstr ""
 msgid "Goblin Archer"
 msgstr ""
 
-#. [attack]: type=blade
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Runemasters/AD_Parachutist.cfg:24
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:182
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:45
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Shadowmage.cfg:28
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:30
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:40
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:61
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:37
-msgid "dagger"
-msgstr ""
-
-#. [attack]: type=pierce
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:39
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:70
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:40
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:71
 msgid "poisoned arrow"
 msgstr ""
 
@@ -1180,7 +352,7 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:39
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:28
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:27
 msgid "explosion"
 msgstr ""
 
@@ -1201,50 +373,11 @@ msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
-#: Era_of_Magic/units/Darkblood/DB_WyvernLancer_recruit.cfg:41
-#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:53
-#: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:31
-#: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:40
-#: Era_of_Magic/units/Darkblood/DB_WyvernGreatLancer_recruit.cfg:42
-#: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:54
-#: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:43
-#: Era_of_Magic/units/Darkblood/DB_GreatLancer.cfg:32
-#: Era_of_Magic/units/Darkblood/DB_GreatLancer.cfg:41
-#: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:35
-#: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:47
-#: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:63
-#: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:28
-#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:27
-#: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:63
-#: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:75
-#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:45
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:27
-#: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:48
-#: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:60
-#: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:47
-#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:51
-#: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:44
-#: Era_of_Magic/units/Kharos/Kharos_SunFollower.cfg:44
-#: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:48
-#: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:66
-#: Era_of_Magic/units/Kharos/Kharos_WarbannerKharos.cfg:78
-#: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:49
-#: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:67
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:71
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:35
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:63
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:62
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:47
-msgid "spear"
-msgstr ""
-
-#. [attack]: type=pierce
-#. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:62
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:63
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:44
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:72
-#: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:71
+#: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:68
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:56
 msgid "spear throw"
 msgstr ""
@@ -1271,7 +404,7 @@ msgstr ""
 msgid "Goblin Sniper"
 msgstr ""
 
-#. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin
+#. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin, description=
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:4
 msgid "Goblin Warbanner"
 msgstr ""
@@ -1306,13 +439,6 @@ msgstr ""
 msgid "Barbarian King"
 msgstr ""
 
-#. [attack]: type=blade
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:28
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:39
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:24
-msgid "axe"
-msgstr ""
-
 #. [unit_type]: id=I8 Barbarian_GreatBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:4
 msgid "Barbarian Lord"
@@ -1321,31 +447,6 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:4
 msgid "Barbarian Berserker"
-msgstr ""
-
-#. [attack]: type=pierce
-#. [attack]: type=blade
-#: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:90
-#: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:138
-#: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:31
-#: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:62
-#: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:108
-#: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:78
-#: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:106
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:22
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:26
-#: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:199
-#: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:79
-msgid "claws"
-msgstr ""
-
-#. [attack]: type=blade
-#: Era_of_Magic/units/Runemasters/AD_SteamUlfserker.cfg:162
-#: Era_of_Magic/units/Runemasters/AD_RedUlfserker.cfg:169
-#: Era_of_Magic/units/Runemasters/AD_SteamBerserker.cfg:163
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:31
-#: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:35
-msgid "berserker frenzy"
 msgstr ""
 
 #. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
@@ -1382,13 +483,6 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_RocMaster, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:4
 msgid "Roc Master"
-msgstr ""
-
-#. [attack]: type=pierce
-#: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:34
-#: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:139
-#: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:88
-msgid "bow"
 msgstr ""
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
@@ -1494,6 +588,21 @@ msgstr ""
 msgid "charge"
 msgstr ""
 
+#. [attack]: type=pierce
+#. [attack]: type=blade
+#: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:53
+#: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:42
+#: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:54
+#: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:63
+#: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:28
+#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:27
+#: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:23
+#: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:75
+#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:26
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:27
+msgid "spear"
+msgstr ""
+
 #. [unit_type]: id=I8_DB_SalamanderBlack, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:4
 msgid "Black Salamander"
@@ -1505,11 +614,6 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:88
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:53
 msgid "wrist blade"
-msgstr ""
-
-#. [attack]: type=blade
-#: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:65
-msgid "throwing knives"
 msgstr ""
 
 #. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
@@ -1528,23 +632,6 @@ msgstr ""
 #. [unit_type]: id=I8_DB_ChaosRider, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:4
 msgid "Chaos Rider"
-msgstr ""
-
-#. [attack]: type=pierce
-#. [attack]: type=blade
-#: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:28
-#: Era_of_Magic/units/Darkblood/DB_WyvernLancer_recruit.cfg:29
-#: Era_of_Magic/units/Darkblood/DB_WyvernGreatLancer_recruit.cfg:29
-#: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:28
-#: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:30
-#: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:30
-#: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:34
-msgid "fangs"
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:55
-msgid "tail"
 msgstr ""
 
 #. [attack]: type=cold
@@ -1567,12 +654,6 @@ msgstr ""
 msgid "iceball"
 msgstr ""
 
-#. [attack]: type=impact
-#: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:159
-#: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:127
-msgid "entangle"
-msgstr ""
-
 #. [unit_type]: id=I8_DB_Crossbowman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Crossbowman.cfg:4
 msgid "Crossbowman"
@@ -1592,31 +673,22 @@ msgid ""
 "spear with enough force to do considerable damage, either in hand or thrown."
 msgstr ""
 
-#. [attack]: type=impact
-#. [attack]: type=pierce
-#: Era_of_Magic/units/Darkblood/DB_Shooter.cfg:33
-#: Era_of_Magic/units/Darkblood/DB_Shooter.cfg:42
-#: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:43
-#: Era_of_Magic/units/Darkblood/DB_Crossbowman.cfg:33
-#: Era_of_Magic/units/Darkblood/DB_Crossbowman.cfg:42
-msgid "crossbow"
-msgstr ""
-
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:4
 msgid "Swamp Mage"
 msgstr ""
 
-#. [attack]: type=fire
-#: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:43
-#: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:90
-#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:39
-#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:57
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:138
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:134
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:106
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:209
-msgid "fireball"
+#. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
+#: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:20
+msgid ""
+"Some of the Corrupted Shamans do not come out of the Great Bog. Instead, "
+"they opt to remain and find their fate there. Some of those wander to a "
+"certain part of the Bog which is suffused with darkness. Most of them die; "
+"the few who survive, probably through some sort of deal with that place's "
+"dark rulers, come back... wrong. Their personalities are wiped blank, and "
+"they serve as the darkness's vehicles. They gain great power in its service, "
+"and their ability to use the fires of the darkness itself and regenerate "
+"almost any wound is infamous in some parts of the Bog."
 msgstr ""
 
 #. [attack]: type=fire
@@ -1656,12 +728,6 @@ msgstr ""
 #. [unit_type]: id=I8_DB_SalamanderGreen, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:4
 msgid "Green Salamander"
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:65
-#: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:46
-msgid "net"
 msgstr ""
 
 #. [unit_type]: id=I8_DB_Lancer, race=lizard
@@ -1738,6 +804,11 @@ msgid ""
 "unfit to do battle physically. However, their control of water magicks is "
 "invaluable in battle, both to heal their allies, and to hurl balls of ice at "
 "their foes."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:62
+msgid "claws"
 msgstr ""
 
 #. [unit_type]: id=I8_DB_ShamanisticToadRecruit, race=lizard
@@ -1827,23 +898,6 @@ msgid ""
 "spells."
 msgstr ""
 
-#. [attack]: type=impact
-#. [attack]: type=blade
-#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:46
-#: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:42
-#: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:87
-#: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:115
-#: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:103
-#: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:115
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:83
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticalWarrior.cfg:202
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:83
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:84
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:147
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:72
-msgid "staff"
-msgstr ""
-
 #. [attack]: type=arcane
 #. [attack]: type=cold
 #. [attack]: type=fire
@@ -1858,13 +912,6 @@ msgstr ""
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:31
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:81
 msgid "missile"
-msgstr ""
-
-#. [attack]: type=cold
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:104
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:105
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:168
-msgid "ensnare"
 msgstr ""
 
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
@@ -1933,21 +980,6 @@ msgid ""
 "Golden Magi are equally skilled with swords and magic. They wear beautiful "
 "golden armor, after which they're named, and use greatswords. They are known "
 "to emerge victorious from the harshest conflicts."
-msgstr ""
-
-#. [attack]: type=blade
-#: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:31
-#: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:31
-#: Era_of_Magic/units/Runemasters/AD_HeavyWarrior.cfg:29
-#: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:29
-#: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:29
-#: Era_of_Magic/units/Kharos/Kharos_SunSlicer.cfg:57
-#: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:127
-#: Era_of_Magic/units/Kharos/Kharos_SunFanatic.cfg:24
-#: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:28
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:48
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:22
-msgid "sword"
 msgstr ""
 
 #. [unit_type]: id=I8 Golem, race=mechanical
@@ -2091,15 +1123,6 @@ msgstr ""
 msgid "icecles"
 msgstr ""
 
-#. [attack]: type=impact
-#. [attack]: type=cold
-#: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:164
-#: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:130
-#: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:244
-#: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:158
-msgid "waterspray"
-msgstr ""
-
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:4
 msgid "Magical Eye"
@@ -2216,7 +1239,7 @@ msgstr ""
 
 #. [attack]: type=arcane
 #. [attack]: type=impact
-#: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:124
+#: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:112
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:60
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:71
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:113
@@ -2235,7 +1258,6 @@ msgstr ""
 
 #. [attack]: type=fire
 #. [attack]: type=impact
-#: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:168
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:104
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:109
 msgid "touch"
@@ -2348,7 +1370,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightAdept, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:4
-msgid "Adept of Light"
+msgid "female^Adept of Light"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
@@ -2365,18 +1387,9 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#. [attack]: type=arcane
-#: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:124
-#: Era_of_Magic/units/Kharos/Kharos_Warbanner.cfg:62
-#: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:112
-#: Era_of_Magic/units/Kharos/Kharos_WarbannerKharos.cfg:86
-#: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:124
-msgid "lightbeam"
-msgstr ""
-
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:4
-msgid "Child of Light"
+msgid "female^Child of Light"
 msgstr ""
 
 #. [attack]: type=arcane
@@ -2387,11 +1400,11 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:4
-msgid "Cleric"
+msgid "female^Cleric"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
-#: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:19
+#: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:20
 msgid ""
 "This unit is less effective than white mage but it can perform more magical "
 "attacks. The Cleric heals and leads other units.\n"
@@ -2401,16 +1414,16 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightInspired, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:4
-msgid "Inspired"
+msgid "female^Inspired"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:4
-msgid "Mistress of Light"
+msgid "female^Mistress of Light"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
-#: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:21
+#: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:22
 msgid ""
 "Mistress of Light is an extremely powerful healer. All friendly units near "
 "her recive 12hp. She flies and illuminates.\n"
@@ -2420,26 +1433,31 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:136
+#: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:124
 msgid "lightstorm"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:4
-msgid "Prophet of Light"
+msgid "female^Prophet of Light"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
-#: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:19
+#: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:20
 msgid ""
 ".\n"
 "\n"
 "Special Notes:"
 msgstr ""
 
+#. [attack]: type=arcane
+#: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:136
+msgid "blinding light"
+msgstr ""
+
 #. [unit_type]: id=I8 Kharos_LightSister, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:4
-msgid "Sister of Light"
+msgid "female^Sister of Light"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
@@ -2450,12 +1468,6 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:18
 msgid "Brown warriors are equipped with a very sharp sword and a mace."
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:38
-#: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:37
-msgid "mace"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
@@ -2539,7 +1551,7 @@ msgid "white sword"
 msgstr ""
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:149
+#: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:148
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:237
 msgid "light focusing"
 msgstr ""
@@ -2558,8 +1570,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:60
-#: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:53
+#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:63
+#: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:56
 msgid "fusion"
 msgstr ""
 
@@ -2578,19 +1590,19 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:72
+#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:75
 msgid "solar beam"
 msgstr ""
 
 #. [damage]: id=i8kiriosbeam
-#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:82
-#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:83
+#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:85
+#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:86
 msgid "beam"
 msgstr ""
 
 #. [damage]: id=i8kiriosbeam
-#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:85
-#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:87
+#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:88
+#: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:90
 msgid ""
 "Beam:\n"
 "When this attack is used, the attacker can hurt a unit behind his primary "
@@ -2625,6 +1637,12 @@ msgstr ""
 msgid ""
 "Platinum warriors are equipped with a very sharp sword, silver spear and "
 "mace."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:29
+#: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:29
+msgid "sword"
 msgstr ""
 
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
@@ -2844,6 +1862,14 @@ msgstr ""
 msgid "screwdriver"
 msgstr ""
 
+#. [damage]: id=i8grenade
+#. [attack]: type=pierce
+#: Era_of_Magic/utils/abilities.cfg:748 Era_of_Magic/utils/abilities.cfg:749
+#: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
+#: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
+msgid "grenade"
+msgstr ""
+
 #. [unit_type]: id=I8 AD_MD, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:4
 msgid "Mechanical Dragon"
@@ -2918,17 +1944,6 @@ msgid ""
 "that rip through any trick aimed at hazing assault."
 msgstr ""
 
-#. [attack]: type=impact
-#: Era_of_Magic/units/Runemasters/AD_RuneAdept.cfg:29
-#: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:29
-#: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:126
-#: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:90
-#: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:129
-#: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:100
-#: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:107
-msgid "hammer"
-msgstr ""
-
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:41
 #: Era_of_Magic/units/Runemasters/AD_RuneAdept.cfg:41
@@ -2940,12 +1955,6 @@ msgstr ""
 #. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:4
 msgid "Rune Artist"
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:29
-#: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:27
-msgid "runic hammer"
 msgstr ""
 
 #. [attack]: type=fire
@@ -3163,21 +2172,25 @@ msgid "Banisher"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
-#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:20
+#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:19
+msgid "(no description available)"
+msgstr ""
+
+#. [unit_type]: id=I8 Ak_Banisher, race=akhuman
+#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:19
 msgid ""
-"(no description available)\n"
-"Special Notes: Banish: this unit can effecively fight with magical units by "
-"turning them into Dimensional Gates."
+"Banish: this unit can effecively fight with magical units by turning them "
+"into Dimensional Gates."
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:34
+#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:33
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:30
 msgid "banishment"
 msgstr ""
 
 #. [attack]: type=cold
-#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:55
+#: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:54
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:51
 msgid "frozen gate"
 msgstr ""
@@ -3258,7 +2271,7 @@ msgid ""
 "and camels were too common and bland in her eyes, for she sought something "
 "that would revolutionize transportation in the Summoners' society. "
 "Eventually, one of her expert sorcerers wove enchanted pieces of fabric "
-"together to form what he called a 'flying carpet.' Soon after, all luxurious "
+"together to form what he called a 'flying carpet.' Soon after, all affluent "
 "men and women began riding these magic carpets for their personal "
 "endeavors.\n"
 "\n"
@@ -3269,13 +2282,15 @@ msgid ""
 "explosive powder bombs which they use to attack and disorient their targets."
 msgstr ""
 
-#. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
-#: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:4
-msgid "Dimensional Gate 2"
+#. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
+#: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:108
+msgid "Dimensional Gate"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
+#. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:16
+#: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:120
 msgid ""
 "The most inexperienced of summoners are capable of summoning only "
 "dimensional gates: unstable bridges of arcane energy between this world and "
@@ -3286,13 +2301,23 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
+#: Era_of_Magic/units/Summoners/AlKamija_DG.cfg:254
+msgid "blue flame"
+msgstr ""
+
+#. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
+#: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:4
+msgid "Dimensional Gate 2"
+msgstr ""
+
+#. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:29
 msgid "yellow flame"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:4
-msgid "Dharma'rhami"
+msgid "Dharma’rhami"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
@@ -3310,7 +2335,7 @@ msgstr ""
 #. [attack]: type=blade
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:122
-#: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:135
+#: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:134
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:134
 msgid "devine spear"
 msgstr ""
@@ -3340,7 +2365,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:4
-msgid "Efreeti"
+msgid "Efreet"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
@@ -3395,7 +2420,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:4
-msgid "Air elemental"
+msgid "Air Elemental"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
@@ -3420,7 +2445,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:4
-msgid "Earth elemental"
+msgid "Earth Elemental"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
@@ -3440,7 +2465,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:4
-msgid "Fire elemental"
+msgid "Fire Elemental"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
@@ -3458,7 +2483,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:4
-msgid "Water elemental"
+msgid "Water Elemental"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
@@ -3599,9 +2624,7 @@ msgid "magic arrow II"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:147
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:165
-#: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:111
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:150
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:128
 msgid "scroll"
@@ -3609,7 +2632,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:4
-msgid "Ho'rhami"
+msgid "Ho’rhami"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
@@ -3630,19 +2653,14 @@ msgid "double devine spear"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:136
+#: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:135
 msgid "double divine spear"
 msgstr ""
 
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:147
-#: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:148
+#: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:146
+#: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:147
 msgid "gaze"
-msgstr ""
-
-#. [attack]: type=pierce
-#: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:161
-msgid "trident"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
@@ -3804,7 +2822,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:4
-msgid "Rhami'datu"
+msgid "Rhami’datu"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
@@ -3829,7 +2847,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:4
-msgid "Rhami'kai"
+msgid "Rhami’kai"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
@@ -3941,8 +2959,13 @@ msgid ""
 "All around the summons master, miracles occur. Ruin is wrought."
 msgstr ""
 
+#. [attack]: type=impact
+#: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:90
+msgid "hammer"
+msgstr ""
+
 #. [attack]: type=arcane
-#: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:123
+#: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:111
 msgid "incantation of power"
 msgstr ""
 
@@ -3960,14 +2983,14 @@ msgid ""
 "feast on bigger and bigger victims."
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Assassin, race=I8 dark elf
-#: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:4
-msgid "Dark Assassin"
+#. [attack]: type=blade
+#: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:34
+msgid "fangs"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Assassin, race=I8 dark elf
-#: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:21
-msgid "Dark Assassin is invsible at night, because of his camuflage."
+#. [unit_type]: id=I8 Tharis_Assassin, race=I8 tharis
+#: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:4
+msgid "Dark Assassin"
 msgstr ""
 
 #. [attack]: type=blade
@@ -3981,26 +3004,26 @@ msgstr ""
 msgid "knives"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:4
 msgid "Bladedancer"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:19
 msgid ""
 ".\n"
 "Special Notes:"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Blademaster, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Blademaster, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:4
 msgid "Blademaster"
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:118
-#: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:127
+#: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:155
+#: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:145
 #: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:62
 msgid "daggers"
 msgstr ""
@@ -4017,25 +3040,25 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:76
-#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:107
-#: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:77
+#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:90
+#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:82
+#: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:91
 msgid "bite"
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:89
-#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:119
-#: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:90
+#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:103
+#: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:94
+#: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:104
 msgid "headbutt"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:4
 msgid "Cold Matriarch"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:19
 msgid ""
 "Cold Matriarch creates cold aura which makes all cold spells very powerful "
@@ -4047,22 +3070,28 @@ msgstr ""
 msgid "matriarch-fire"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Commander, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Commander, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:4
 msgid "Commander"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 dark elf
+#. [attack]: type=fire
+#: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:39
+#: Era_of_Magic/units/Warlocks/Tharis_General.cfg:38
+msgid "fireball"
+msgstr ""
+
+#. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:4
 msgid "Dark Warrior"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:4
 msgid "Dark Wizard"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:18
 msgid ""
 "Dark Wizard is equipped whit special staff, which reinforces his spellpower. "
@@ -4070,8 +3099,13 @@ msgid ""
 "only two attacks."
 msgstr ""
 
+#. [attack]: type=impact
+#: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:91
+msgid "staff"
+msgstr ""
+
 #. [attack]: type=cold
-#: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:96
+#: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:100
 msgid "dark spark"
 msgstr ""
 
@@ -4080,17 +3114,12 @@ msgstr ""
 msgid "Raging Hydra"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Deephydra, race=monster
-#: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:17
-msgid "Raging Hydra is very powerful because of its attack power."
-msgstr ""
-
-#. [unit_type]: id=I8 Tharis_Disciple, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Disciple, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:4
 msgid "Disciple"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Disciple, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Disciple, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:18
 msgid ""
 "Every dark dispile dreams about being a great warlock. But for now they must "
@@ -4098,31 +3127,36 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:49
+#: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:37
 msgid "shadow wave"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_General.cfg:4
 msgid "General"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:4
 msgid "Great Hunter"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:18
 msgid "Great Hunter can slow enemies by throwing nets."
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 dark elf
+#. [attack]: type=impact
+#: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:46
+msgid "net"
+msgstr ""
+
+#. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:4
 msgid "Great Warlock"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:18
 msgid ""
 "Great Warlock knows black magic well. He learned a secret of levitation so "
@@ -4131,17 +3165,23 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:50
-#: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:46
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:262
+#: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:104
 msgid "scythe"
 msgstr ""
 
+#. [attack]: type=impact
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:271
+#: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:113
+msgid "fist"
+msgstr ""
+
 #. [attack]: type=cold
-#: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:65
+#: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:123
 msgid "dark ball"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Hunter, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Hunter, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Hunter.cfg:4
 msgid "Dark Hunter"
 msgstr ""
@@ -4158,12 +3198,12 @@ msgid ""
 "performs 7 attack, when it has full hp."
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:4
 msgid "Master of Darkness"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:18
 msgid ""
 "He is the synonym of the darkness. His spellpower is the highest in the era. "
@@ -4172,33 +3212,33 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:69
+#: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:281
 msgid "implosion"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:4
 msgid "Master of War"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Matriarch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Matriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:4
 msgid "Matriarch of Emptiness"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Matriarch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Matriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:18
 msgid ""
 "Matriarch of emtiness owns powerful orb, which drains all magical energy "
 "from air. That means all spells do minimal damage."
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:4
 msgid "Matriarch of Darkness"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:20
 msgid ""
 "Shadow Matriarch knows no mercy. She creates dark aura, which makes all "
@@ -4209,7 +3249,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:72
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:37
-#: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:72
+#: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:32
 msgid "witch-fire"
 msgstr ""
 
@@ -4218,12 +3258,12 @@ msgstr ""
 msgid "blood gate"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:4
 msgid "Dark Witch"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:18
 msgid ""
 "Experienced in battle witch becomes shadow witch. Now she is more dangerous "
@@ -4235,22 +3275,22 @@ msgstr ""
 msgid "curse"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Slayer, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Slayer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:4
 msgid "Dark Slayer"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:4
 msgid "Sworddancer"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Witch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Witch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:4
 msgid "Witch"
 msgstr ""
 
-#. [unit_type]: id=I8 Tharis_Witch, race=I8 dark elf
+#. [unit_type]: id=I8 Tharis_Witch, race=I8 tharis
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:18
 msgid ""
 "Whitches are servants of darkness. They use special magic attack called "
@@ -4258,46 +3298,1019 @@ msgid ""
 "range witches use their spears."
 msgstr ""
 
-#. [race]: id=I8 magical
-#: Era_of_Magic/units/units.cfg:32
+#. [race]: id=I8 tharis
+#: Era_of_Magic/units/units.cfg:5
+msgid "race^Tharis"
+msgstr ""
+
+#. [race]: id=I8 tharis
+#: Era_of_Magic/units/units.cfg:6
+msgid "race+female^Tharis"
+msgstr ""
+
+#. [race]: id=I8 tharis
+#: Era_of_Magic/units/units.cfg:7
+msgid "race+plural^Tharis"
+msgstr ""
+
+#. [race]: id=I8 cyclop
+#: Era_of_Magic/units/units.cfg:15
+msgid "race^Cyclops"
+msgstr ""
+
+#. [race]: id=I8 cyclop
+#: Era_of_Magic/units/units.cfg:16
+msgid "race+female^Cyclops"
+msgstr ""
+
+#. [race]: id=I8 cyclop
+#: Era_of_Magic/units/units.cfg:17
+msgid "race^Cyclopes"
+msgstr ""
+
+#. [race]: id=I8 roc
+#: Era_of_Magic/units/units.cfg:29
+msgid "race^Roc"
+msgstr ""
+
+#. [race]: id=I8 roc
+#: Era_of_Magic/units/units.cfg:30
+msgid "race+female^Roc"
+msgstr ""
+
+#. [race]: id=I8 roc
+#: Era_of_Magic/units/units.cfg:31
+msgid "race^Rocs"
+msgstr ""
+
+#. [race]: id=I8 magical, description=
+#: Era_of_Magic/units/units.cfg:39
 msgid "race^Magical"
 msgstr ""
 
-#. [race]: id=I8 magical
-#: Era_of_Magic/units/units.cfg:33
+#. [race]: id=I8 magical, description=
+#: Era_of_Magic/units/units.cfg:40
+msgid "race+female^Magical"
+msgstr ""
+
+#. [race]: id=I8 magical, description=
+#: Era_of_Magic/units/units.cfg:41
 msgid "race+plural^Magical"
 msgstr ""
 
-#. [trait]: id=magical
-#: Era_of_Magic/units/units.cfg:41
+#. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
+#: Era_of_Magic/units/units.cfg:49
 msgid "magical"
 msgstr ""
 
-#. [trait]: id=magical
-#: Era_of_Magic/units/units.cfg:42
+#. [trait]: id=magical, description={STR_NONLIVING_DESCRIPTION}
+#: Era_of_Magic/units/units.cfg:50
 msgid "female^magical"
 msgstr ""
 
-#. [trait]: id=magical
-#: Era_of_Magic/units/units.cfg:43
-msgid "Immune to drain, poison and plague"
+#. [race]: id=I8 salamander
+#: Era_of_Magic/units/units.cfg:61
+msgid "race^Salamander"
+msgstr ""
+
+#. [race]: id=I8 salamander
+#: Era_of_Magic/units/units.cfg:62
+msgid "race+female^Salamander"
+msgstr ""
+
+#. [race]: id=I8 salamander
+#: Era_of_Magic/units/units.cfg:63
+msgid "race^Salamanders"
 msgstr ""
 
 #. [race]: id=akhuman, description=
-#: Era_of_Magic/units/units.cfg:67 Era_of_Magic/units/units.cfg:69
-msgid "race^human"
+#: Era_of_Magic/units/units.cfg:76
+msgid "race^Human"
 msgstr ""
 
 #. [race]: id=akhuman, description=
-#: Era_of_Magic/units/units.cfg:68
-msgid "race+female^human"
+#: Era_of_Magic/units/units.cfg:77
+msgid "race+female^Human"
 msgstr ""
 
 #. [race]: id=akhuman, description=
-#: Era_of_Magic/units/units.cfg:72 Era_of_Magic/units/units.cfg:73
+#: Era_of_Magic/units/units.cfg:78
+msgid "race^Humans"
+msgstr ""
+
+#. [race]: id=akhuman, description=
+#: Era_of_Magic/units/units.cfg:81 Era_of_Magic/units/units.cfg:82
 msgid ""
 "Alib,Kalib,Balib,Safay,Jaffar,Semir,Celal,Fatih,Ferhan,Mustafa,Mehmet,Melih,"
 "Ali,Adem,Ahmet,Altan,Ismet,Ibrahim,Hakan,Kemal,Kenan,Rafet,Tahir,Yasar,Yasin,"
 "Yusuf,Ahmed,Najib,Samir,Hassan,Hisham,Karim,Saif,Rahul,Rohan,Rohit,Nikhil,"
 "Shahrukh,Krishi"
+msgstr ""
+
+#. [regenerate]: id=water
+#: Era_of_Magic/utils/abilities.cfg:7
+msgid "water"
+msgstr ""
+
+#. [regenerate]: id=water
+#: Era_of_Magic/utils/abilities.cfg:9
+msgid ""
+"Made of Water:\n"
+"This unit is made of water. As a result, if it is standing in water, it will "
+"receive 6 hp."
+msgstr ""
+
+#. [regenerate]: id=water
+#: Era_of_Magic/utils/abilities.cfg:10
+msgid "waterhome"
+msgstr ""
+
+#. [regenerate]: id=water
+#: Era_of_Magic/utils/abilities.cfg:12
+msgid ""
+"waterhome:\n"
+"This unit is made of water. If it stands in water, it will receive 6 hp."
+msgstr ""
+
+#. [regenerate]: id=fire
+#: Era_of_Magic/utils/abilities.cfg:27
+msgid "fire"
+msgstr ""
+
+#. [regenerate]: id=fire
+#: Era_of_Magic/utils/abilities.cfg:29
+msgid ""
+"Made of Fire:\n"
+"This unit is made of fire. If it stands in lava, it will recive 6 hp."
+msgstr ""
+
+#. [regenerate]: id=fire
+#: Era_of_Magic/utils/abilities.cfg:30
+msgid "lavahome"
+msgstr ""
+
+#. [regenerate]: id=fire
+#: Era_of_Magic/utils/abilities.cfg:32
+msgid ""
+"lavahome:\n"
+"This unit is made of fire. If it stands in lava, it will recive 6 hp."
+msgstr ""
+
+#. [regenerate]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:47
+msgid "megacircle"
+msgstr ""
+
+#. [regenerate]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:49
+msgid ""
+"megacircle:\n"
+"This unit owns powerful magic circle which affects all units inside. All "
+"friendly units fight better (+125%, +100%, +75%, +50%, +25% - lvl 0, 1, 2, "
+"3, 4) and regenerate themselves."
+msgstr ""
+
+#. [chance_to_hit]: id=circle
+#: Era_of_Magic/utils/abilities.cfg:137
+msgid "always hits"
+msgstr ""
+
+#. [chance_to_hit]: id=circle
+#: Era_of_Magic/utils/abilities.cfg:139
+msgid ""
+"always hits:\n"
+"This attack always has a 100% chance to hit"
+msgstr ""
+
+#. [attacks]: id=nocounter
+#: Era_of_Magic/utils/abilities.cfg:148 Era_of_Magic/utils/abilities.cfg:151
+msgid "no counter-attack"
+msgstr ""
+
+#. [attacks]: id=nocounter
+#: Era_of_Magic/utils/abilities.cfg:150 Era_of_Magic/utils/abilities.cfg:153
+msgid ""
+"no counter-attack:\n"
+"The opponent has always a 0% chance to hit, when this unit is attacking."
+msgstr ""
+
+#. [damage]: id=evasion
+#: Era_of_Magic/utils/abilities.cfg:164 Era_of_Magic/utils/abilities.cfg:165
+msgid "evasion"
+msgstr ""
+
+#. [damage]: id=evasion
+#: Era_of_Magic/utils/abilities.cfg:167
+msgid ""
+"Evasion:\n"
+"When this attack is used offensively, this unit takes one third less damage "
+"in retaliation."
+msgstr ""
+
+#. [damage]: id=evasion
+#: Era_of_Magic/utils/abilities.cfg:169
+msgid ""
+"evasion:\n"
+"When this attack is used offensively, this unit takes one third less damage "
+"in retaliation."
+msgstr ""
+
+#. [leadership]: id=darkaura
+#: Era_of_Magic/utils/abilities.cfg:181
+msgid "dark aura"
+msgstr ""
+
+#. [leadership]: id=darkaura
+#: Era_of_Magic/utils/abilities.cfg:182
+msgid "Dark aura makes all enemy units fight worse (-25% for attack)."
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:200
+msgid "ultracures"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:205
+msgid ""
+"Heals +12:\n"
+"Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 12 HP per turn.\n"
+"A curer can cure a unit of poison, although that unit will receive no "
+"additional healing on the turn it is cured of the poison."
+msgstr ""
+
+#. [resistance]: id=i8protection
+#: Era_of_Magic/utils/abilities.cfg:226
+msgid "defender"
+msgstr ""
+
+#. [resistance]: id=i8protection
+#: Era_of_Magic/utils/abilities.cfg:228
+msgid ""
+"Defender:\n"
+"Adjacent friendly units receive a +20% bonus to all resistances (up to a "
+"maximum of 40%)."
+msgstr ""
+
+#. [chance_to_hit]: id=precision
+#: Era_of_Magic/utils/abilities.cfg:243
+msgid "precision"
+msgstr ""
+
+#. [chance_to_hit]: id=precision
+#: Era_of_Magic/utils/abilities.cfg:245
+msgid ""
+"precision:\n"
+"This attack always has a 80% chance to hit"
+msgstr ""
+
+#. [resistance]: id=cr
+#: Era_of_Magic/utils/abilities.cfg:257
+msgid "circle of resistance"
+msgstr ""
+
+#. [resistance]: id=cr
+#: Era_of_Magic/utils/abilities.cfg:259
+msgid ""
+"Circle of Resistance:\n"
+"This unit and all adjacent friendly units receive a +20% bonus to fire, cold "
+"and arcane resistance."
+msgstr ""
+
+#. [resistance]: id=deadzone
+#: Era_of_Magic/utils/abilities.cfg:274
+msgid "deadzone"
+msgstr ""
+
+#. [resistance]: id=deadzone
+#: Era_of_Magic/utils/abilities.cfg:276
+msgid ""
+"Deadzone:\n"
+"Adjacent friendly units receive a 99% bonus to fire,cold and arcane "
+"resistance"
+msgstr ""
+
+#. [resistance]: id=coldaura
+#: Era_of_Magic/utils/abilities.cfg:291
+msgid "cold aura"
+msgstr ""
+
+#. [resistance]: id=coldaura
+#: Era_of_Magic/utils/abilities.cfg:293
+msgid ""
+"Cold Aura:\n"
+"Adjacent units receive a 50% bonus to fire resistance and a -25% bonus to "
+"cold resistance. All cold spells are very powerful here."
+msgstr ""
+
+#. [chance_to_hit]: id=i8revenge
+#: Era_of_Magic/utils/abilities.cfg:322 Era_of_Magic/utils/abilities.cfg:325
+msgid "revenge"
+msgstr ""
+
+#. [chance_to_hit]: id=i8revenge
+#: Era_of_Magic/utils/abilities.cfg:324 Era_of_Magic/utils/abilities.cfg:327
+msgid ""
+"revenge:\n"
+"The unit has always a 100% chance to hit, during retalitation."
+msgstr ""
+
+#. [dummy]: id=i8 kamikaze
+#: Era_of_Magic/utils/abilities.cfg:339
+msgid "kamikaze"
+msgstr ""
+
+#. [dummy]: id=i8 kamikaze
+#: Era_of_Magic/utils/abilities.cfg:340
+msgid ""
+"Kamikaze: this unit always hits a target when attacking, but it dies "
+"instantly."
+msgstr ""
+
+#. [dummy]: id=i8hitandrun
+#: Era_of_Magic/utils/abilities.cfg:363
+msgid "hit and run"
+msgstr ""
+
+#. [dummy]: id=i8hitandrun
+#: Era_of_Magic/utils/abilities.cfg:365
+msgid ""
+"Hit and Run:\n"
+"This unit gains 3 moves back after attacking, but cannot attack again."
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/abilities.cfg:379
+msgid "FLEE!"
+msgstr ""
+
+#. [hides]: id=mountainambush
+#: Era_of_Magic/utils/abilities.cfg:389
+msgid "mountain ambush"
+msgstr ""
+
+#. [hides]: id=mountainambush
+#: Era_of_Magic/utils/abilities.cfg:390
+msgid " mountain ambush"
+msgstr ""
+
+#. [hides]: id=mountainambush
+#: Era_of_Magic/utils/abilities.cfg:394
+msgid ""
+"Mountain Ambush:\n"
+"This unit can hide in mountains and hills, and remain undetected by its "
+"enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in mountains or hills, except "
+"if they have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+
+#. [hides]: id=mountainambush
+#: Era_of_Magic/utils/abilities.cfg:398
+msgid ""
+"Ambush:\n"
+"This unit can hide in forest, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in mountains or hills, except "
+"if they have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+
+#. [dummy]: id=i8fury
+#: Era_of_Magic/utils/abilities.cfg:415
+msgid "fury"
+msgstr ""
+
+#. [dummy]: id=i8fury
+#: Era_of_Magic/utils/abilities.cfg:417
+msgid ""
+"Fury:\n"
+"This unit can attack another after killing an enemy."
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/abilities.cfg:438
+msgid "FURY!"
+msgstr ""
+
+#. [damage]: id=i8furiousdeath
+#: Era_of_Magic/utils/abilities.cfg:517
+msgid "furious death"
+msgstr ""
+
+#. [damage]: id=i8furiousdeath
+#: Era_of_Magic/utils/abilities.cfg:518
+msgid ""
+"Furious Death: When this unit dies, it flies into a fury. The unit with this "
+"ability atacks all adjecent units and then it finally dies."
+msgstr ""
+
+#. [damage]: id=i8battlefrenzy
+#: Era_of_Magic/utils/abilities.cfg:532 Era_of_Magic/utils/abilities.cfg:533
+msgid "battlefrenzy"
+msgstr ""
+
+#. [damage]: id=i8battlefrenzy
+#: Era_of_Magic/utils/abilities.cfg:534
+msgid ""
+"Battlefrenzy: When this attack is used, this units gets an extra strike and "
+"additional damage (+2) after each successful hit. Does not work on defence."
+msgstr ""
+
+#. [damage]: id=i8battlefrenzy
+#: Era_of_Magic/utils/abilities.cfg:535
+msgid ""
+"Battlefrenzy: This unit gets one extra strike and additional damage (+2) "
+"with each hit during attack. Does not work on defense."
+msgstr ""
+
+#. [dummy]: id=i8hardlanding
+#: Era_of_Magic/utils/abilities.cfg:643
+msgid "Hard landing"
+msgstr ""
+
+#. [dummy]: id=i8hardlanding
+#: Era_of_Magic/utils/abilities.cfg:644
+msgid ""
+"Hard landing: When this large unit is destroyed, it falls on a ground "
+"dealing damage to all adjecent units. "
+msgstr ""
+
+#. [dummy]: id=i8parachute
+#: Era_of_Magic/utils/abilities.cfg:651
+msgid "parachute"
+msgstr ""
+
+#. [dummy]: id=i8parachute
+#: Era_of_Magic/utils/abilities.cfg:652
+msgid ""
+"Parachute: The pilot of this machine is equipped with parachute and he can "
+"survive a destruction of his vehicle."
+msgstr ""
+
+#. [heals]: id=i8repair
+#: Era_of_Magic/utils/abilities.cfg:680
+msgid "repairs +5"
+msgstr ""
+
+#. [heals]: id=i8repair
+#: Era_of_Magic/utils/abilities.cfg:684
+msgid ""
+"Repairs +5:\n"
+"Allows the unit to repair adjacent friendly mechanical units at the "
+"beginning of each turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 5 HP per turn."
+msgstr ""
+
+#. [heals]: id=i8repair
+#: Era_of_Magic/utils/abilities.cfg:701
+msgid "repairs +8"
+msgstr ""
+
+#. [heals]: id=i8repair
+#: Era_of_Magic/utils/abilities.cfg:705
+msgid ""
+"Repairs +8:\n"
+"Allows the unit to repair adjacent friendly mechanical units at the "
+"beginning of each turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 8 HP per turn."
+msgstr ""
+
+#. [damage]: id=i8grenade
+#: Era_of_Magic/utils/abilities.cfg:750 Era_of_Magic/utils/abilities.cfg:751
+msgid ""
+"Grenade: When this attack is used, all units adjecent to a target get "
+"damage. Does not work on defense."
+msgstr ""
+
+#. [dummy]: id=runeaura
+#. [resistance]: id=runeauraactive
+#: Era_of_Magic/utils/abilities.cfg:758 Era_of_Magic/utils/abilities.cfg:863
+msgid "rune aura"
+msgstr ""
+
+#. [dummy]: id=runeaura
+#: Era_of_Magic/utils/abilities.cfg:760
+msgid ""
+"Rune Aura:\n"
+"When this ability is activated, all Rune Masters create special auras. "
+"Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
+"cold and arcane resistance. Other units receive a -99% bonus to fire, cold "
+"and arcane resistance. The transformation lasts for one turn. Transformated "
+"unit cannot attack."
+msgstr ""
+
+#. [set_menu_item]: id=runeaura_menu
+#: Era_of_Magic/utils/abilities.cfg:799
+msgid "Activate Aura (24g)"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Era_of_Magic/utils/abilities.cfg:823
+msgid "Activate aura? (cost: 24g)"
+msgstr ""
+
+#. [option]: speaker=unit
+#: Era_of_Magic/utils/abilities.cfg:825
+msgid "No"
+msgstr ""
+
+#. [option]: speaker=unit
+#: Era_of_Magic/utils/abilities.cfg:831
+msgid "Yes"
+msgstr ""
+
+#. [print]
+#: Era_of_Magic/utils/abilities.cfg:844
+msgid "You don't have enough gold to activate the rune aura!"
+msgstr ""
+
+#. [resistance]: id=runeauraactive
+#: Era_of_Magic/utils/abilities.cfg:865
+msgid ""
+"Rune Aura:\n"
+"Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
+"cold and arcane resistance. Other units receive a -99% bonus to fire, cold "
+"and arcane resistance."
+msgstr ""
+
+#. [damage]: id=swallow
+#: Era_of_Magic/utils/abilities.cfg:890
+msgid "swallow +4"
+msgstr ""
+
+#. [damage]: id=swallow
+#: Era_of_Magic/utils/abilities.cfg:891
+msgid "Swallow +4"
+msgstr ""
+
+#. [damage]: id=swallow
+#: Era_of_Magic/utils/abilities.cfg:893 Era_of_Magic/utils/abilities.cfg:895
+msgid ""
+"Swallow +4:\n"
+"This unit gains 4 hitpoints added to its current health whenever it kills a "
+"living unit."
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/abilities.cfg:921
+msgid "4"
+msgstr ""
+
+#. [hides]: id=swampambush
+#: Era_of_Magic/utils/abilities.cfg:944 Era_of_Magic/utils/abilities.cfg:945
+msgid "swamp ambush"
+msgstr ""
+
+#. [hides]: id=swampambush
+#: Era_of_Magic/utils/abilities.cfg:949
+msgid ""
+"Swamp Ambush:\n"
+"This unit can hide in swamp, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in swamp, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [hides]: id=swampambush
+#: Era_of_Magic/utils/abilities.cfg:953
+msgid ""
+"Ambush:\n"
+"This unit can hide in forest, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in swamp, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [hides]: id=waterambush
+#: Era_of_Magic/utils/abilities.cfg:966 Era_of_Magic/utils/abilities.cfg:967
+msgid "water ambush"
+msgstr ""
+
+#. [hides]: id=waterambush
+#: Era_of_Magic/utils/abilities.cfg:971
+msgid ""
+"water Ambush:\n"
+"This unit can hide in water, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in water, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [hides]: id=waterambush
+#: Era_of_Magic/utils/abilities.cfg:975
+msgid ""
+"Ambush:\n"
+"This unit can hide in forest, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in water, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [hides]: id=caveambush
+#: Era_of_Magic/utils/abilities.cfg:988 Era_of_Magic/utils/abilities.cfg:989
+msgid "cave ambush"
+msgstr ""
+
+#. [hides]: id=caveambush
+#: Era_of_Magic/utils/abilities.cfg:993
+msgid ""
+"Cave Ambush:\n"
+"This unit can hide in cave, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in cave, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [hides]: id=caveambush
+#: Era_of_Magic/utils/abilities.cfg:997
+msgid ""
+"Ambush:\n"
+"This unit can hide in forest, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in cave, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [regenerate]: id=regen4
+#: Era_of_Magic/utils/abilities.cfg:1011 Era_of_Magic/utils/abilities.cfg:1014
+msgid "regenerates +4"
+msgstr ""
+
+#. [regenerate]: id=regen4
+#: Era_of_Magic/utils/abilities.cfg:1013 Era_of_Magic/utils/abilities.cfg:1016
+msgid ""
+"Regenerates +4:\n"
+"At the begining of each turn this unit heals +4 hp. If it is poisoned, it "
+"will remove it instead of healing."
+msgstr ""
+
+#. [dummy]: id=i8awake
+#: Era_of_Magic/utils/abilities.cfg:1159
+msgid "awaken"
+msgstr ""
+
+#. [dummy]: id=i8awake
+#: Era_of_Magic/utils/abilities.cfg:1160
+msgid ""
+"Awaken: if a friendly adjacent unit with more than one hitpoint at the "
+"beginning of the battle dies, it is resurrected, gets +6 experience and "
+"remains in battle with one hitpoint. If it dies again (having one hitpoint), "
+"it will be killed for sure."
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/abilities.cfg:1274 Era_of_Magic/utils/abilities.cfg:1344
+msgid "female^awoken"
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/abilities.cfg:1298 Era_of_Magic/utils/abilities.cfg:1368
+msgid "awoken"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:1389
+msgid "heals +2"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Magic/utils/abilities.cfg:1393
+msgid ""
+"Heals +2:\n"
+"Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 2 HP per turn."
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/abilities.cfg:1407 Era_of_Magic/utils/abilities.cfg:1440
+msgid "inspire"
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/abilities.cfg:1412
+msgid ""
+"Inspire:\n"
+"This unit can inspire friendly units that are next to it, making them fight "
+"better.\n"
+"\n"
+"Adjacent friendly level 0 units will do 25% more damage in battle.\n"
+"Adjacent friendly level 1 units will do 10% more damage in battle."
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/abilities.cfg:1446
+msgid ""
+"Inspire:\n"
+"This unit can inspire friendly units that are next to it, making them fight "
+"better.\n"
+"\n"
+"Adjacent friendly level 0 units will do 25% more damage in battle.\n"
+"Adjacent friendly level 1 units will do 25% more damage in battle.\n"
+"Adjacent friendly level 2 units will do 10% more damage in battle."
+msgstr ""
+
+#. [leadership]: id=terror
+#: Era_of_Magic/utils/abilities.cfg:1487 Era_of_Magic/utils/abilities.cfg:1523
+#: Era_of_Magic/utils/abilities.cfg:1573
+msgid "awe"
+msgstr ""
+
+#. [leadership]: id=terror
+#: Era_of_Magic/utils/abilities.cfg:1491 Era_of_Magic/utils/abilities.cfg:1527
+#: Era_of_Magic/utils/abilities.cfg:1577
+msgid ""
+"Awe:\n"
+"This unit can frighten enemy units that are next to it, making them fight "
+"worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When a "
+"unit adjacent to, of the same level, or a lower level than, and is an enemy "
+"of the unit with Terror engages in combat, its attacks do 15% less damage "
+"times the difference in their levels + 15%."
+msgstr ""
+
+#. [damage]: id=banish
+#: Era_of_Magic/utils/abilities.cfg:1635 Era_of_Magic/utils/abilities.cfg:1636
+msgid "banish"
+msgstr ""
+
+#. [damage]: id=banish
+#: Era_of_Magic/utils/abilities.cfg:1638 Era_of_Magic/utils/abilities.cfg:1640
+msgid ""
+"banish:\n"
+"If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
+"'Dimensional Gate', (this happens only if the target is exactly one level "
+"below the banisher). If the enemy is at least two levels below your "
+"banisher, it'll get completly destroyed. Any other enemy won't be affected."
+msgstr ""
+
+#. [leadership]: id=cob
+#: Era_of_Magic/utils/abilities.cfg:1782
+msgid "circle of banishment"
+msgstr ""
+
+#. [leadership]: id=cob
+#: Era_of_Magic/utils/abilities.cfg:1786
+msgid ""
+"circle of banishment:\n"
+"This unit can affect enemy magical units that are next to it, making them "
+"fight worse.\n"
+"\n"
+"Adjacent enemy magical units of lower level will do less damage in battle. "
+"When a unit adjacent to, of the same level, or a lower level than, and is an "
+"enemy of the unit with Circle of Banishment engages in combat, its attacks "
+"do less damage (-40% lvl0, -30% lvl1, -15% lvl2, -10% lvl3)."
+msgstr ""
+
+#. [chance_to_hit]: id=i8bloodlust
+#: Era_of_Magic/utils/bloodlust.cfg:5 Era_of_Magic/utils/bloodlust.cfg:6
+msgid "bloodlust"
+msgstr ""
+
+#. [chance_to_hit]: id=i8bloodlust
+#: Era_of_Magic/utils/bloodlust.cfg:7
+msgid ""
+"Bloodlust: When this attack is used, this units gets an extra strike after "
+"each successful hit."
+msgstr ""
+
+#. [chance_to_hit]: id=i8bloodlust
+#: Era_of_Magic/utils/bloodlust.cfg:8
+msgid ""
+"Bloodlust: This unit gets one extra strike with each hit during attack. Does "
+"not work on defense."
+msgstr ""
+
+#. [damage]: id=i8concentrated
+#: Era_of_Magic/utils/concentrated.cfg:5 Era_of_Magic/utils/concentrated.cfg:6
+msgid "growing fury"
+msgstr ""
+
+#. [damage]: id=i8concentrated
+#: Era_of_Magic/utils/concentrated.cfg:7 Era_of_Magic/utils/concentrated.cfg:8
+msgid ""
+"Growing fury: When this attack is used, this units damage increases after "
+"each successful hit (+4)."
+msgstr ""
+
+#. [damage]: id=agility
+#: Era_of_Magic/utils/doubleattack.cfg:5 Era_of_Magic/utils/doubleattack.cfg:8
+msgid "double attack"
+msgstr ""
+
+#. [damage]: id=agility
+#: Era_of_Magic/utils/doubleattack.cfg:7
+#: Era_of_Magic/utils/doubleattack.cfg:10
+msgid ""
+"Double attack:\n"
+"This unit can attack 2 enemies in one turn, but cannot move from a hex, "
+"where first enemy was attacked."
+msgstr ""
+
+#. [dummy]: id=i8cleave
+#: Era_of_Magic/utils/i8cleave.cfg:144 Era_of_Magic/utils/i8cleave.cfg:295
+#: Era_of_Magic/utils/i8cleave.cfg:446
+msgid "cleave"
+msgstr ""
+
+#. [dummy]: id=i8cleave
+#: Era_of_Magic/utils/i8cleave.cfg:145 Era_of_Magic/utils/i8cleave.cfg:296
+#: Era_of_Magic/utils/i8cleave.cfg:447
+msgid ""
+"Cleave: A unit with this ability can hurt units that are adjacent to the "
+"attacker and the defender at the same time."
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/i8cleave.cfg:499 Era_of_Magic/utils/i8cleave.cfg:516
+#: Era_of_Magic/utils/i8cleave.cfg:602 Era_of_Magic/utils/i8cleave.cfg:619
+msgid "5"
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/i8cleave.cfg:534 Era_of_Magic/utils/i8cleave.cfg:551
+#: Era_of_Magic/utils/i8cleave.cfg:637 Era_of_Magic/utils/i8cleave.cfg:654
+msgid "9"
+msgstr ""
+
+#. [dummy]: id=i8cleavehydra
+#: Era_of_Magic/utils/i8cleave.cfg:670 Era_of_Magic/utils/i8cleave.cfg:894
+msgid "hydra's strike"
+msgstr ""
+
+#. [dummy]: id=i8cleavehydra
+#: Era_of_Magic/utils/i8cleave.cfg:671 Era_of_Magic/utils/i8cleave.cfg:895
+msgid ""
+"Hydra's strike: This ability allows an owner to do damage to 2 hostile units "
+"standing near a target."
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/i8cleave.cfg:723 Era_of_Magic/utils/i8cleave.cfg:740
+#: Era_of_Magic/utils/i8cleave.cfg:826 Era_of_Magic/utils/i8cleave.cfg:843
+msgid "6"
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/i8cleave.cfg:758 Era_of_Magic/utils/i8cleave.cfg:775
+#: Era_of_Magic/utils/i8cleave.cfg:861 Era_of_Magic/utils/i8cleave.cfg:878
+msgid "12"
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:7
+msgid "goblin leader"
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:11
+msgid ""
+"Goblin leader:\n"
+"This unit can lead our own Goblins that are next to it, making them fight "
+"better.\n"
+"\n"
+"Adjacent own Goblins will do more damage in battle (20% more)."
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:27
+msgid "orcish leader"
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:31
+msgid ""
+"Orcish leader:\n"
+"This unit can lead our own Orcs that are next to it, making them fight "
+"better.\n"
+"\n"
+"Adjacent own Orcs will do more damage in battle (20% more)."
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:47
+msgid "troll leader"
+msgstr ""
+
+#. [leadership]: id=leadership
+#: Era_of_Magic/utils/leaderships.cfg:51
+msgid ""
+"Troll leader:\n"
+"This unit can lead our own Trolls that are next to it, making them fight "
+"better. Also ALL adjacent friendly units receive a +30% bonus to fire, cold "
+"and arcane resistance.\n"
+"\n"
+"Adjacent own Trolls will do more damage in battle (20% more) and all "
+"adjecent friendly units gain better magical resistance (30% more applied to "
+"fire, cold and arcane resistance)."
+msgstr ""
+
+#. [set_menu_item]: id=summon_{ID}
+#: Era_of_Magic/utils/summon.cfg:24
+msgid "Summon "
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Magic/utils/summon.cfg:131 Era_of_Magic/utils/summon.cfg:168
+msgid "+$this_unit.level exp"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Era_of_Magic/utils/summon.cfg:180
+msgid "Error"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Era_of_Magic/utils/summon.cfg:181
+msgid "I have insufficient materials. I am unable to summon."
+msgstr ""
+
+#. [set_menu_item]: id=summon_zhelp
+#: Era_of_Magic/utils/summon.cfg:192
+msgid "Summon Help"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Era_of_Magic/utils/summon.cfg:206
+msgid "Help"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Era_of_Magic/utils/summon.cfg:212
+msgid ""
+"To summon a unit right-click on adjacent hexes near a selected summoner.\n"
+"\n"
+"You need all movement points (and remaining attacks) to summon one creature. "
+"You are unable to summon from castles or keeps. A new unit can't be summoned "
+"on water.\n"
+"Every summoning adds +4 to current experience.\n"
+"\n"
+"If there are 2 or more summoners, a new unit will be summoned by the last "
+"selected unit able to summon."
+msgstr ""
+
+#. [dummy]: id=summon_lvl3
+#. [dummy]: id=summon_lvl4
+#. [dummy]: id=summon_hs
+#. [dummy]: id=mof
+#. [dummy]: id=mow
+#. [dummy]: id=moa
+#. [dummy]: id=guru
+#: Era_of_Magic/utils/summon.cfg:227 Era_of_Magic/utils/summon.cfg:278
+#: Era_of_Magic/utils/summon.cfg:331 Era_of_Magic/utils/summon.cfg:384
+#: Era_of_Magic/utils/summon.cfg:433 Era_of_Magic/utils/summon.cfg:482
+#: Era_of_Magic/utils/summon.cfg:531
+msgid "summon"
+msgstr ""
+
+#. [dummy]: id=summon_lvl3
+#. [dummy]: id=summon_lvl4
+#. [dummy]: id=summon_hs
+#. [dummy]: id=mof
+#. [dummy]: id=mow
+#. [dummy]: id=moa
+#. [dummy]: id=guru
+#: Era_of_Magic/utils/summon.cfg:229 Era_of_Magic/utils/summon.cfg:280
+#: Era_of_Magic/utils/summon.cfg:333 Era_of_Magic/utils/summon.cfg:386
+#: Era_of_Magic/utils/summon.cfg:435 Era_of_Magic/utils/summon.cfg:484
+#: Era_of_Magic/utils/summon.cfg:533
+msgid ""
+"Summon:\n"
+"this unit can summon new units near him, but not in villages."
+msgstr ""
+
+#: Era_of_Magic/utils/summon.cfg:270 Era_of_Magic/utils/summon.cfg:325
+#: Era_of_Magic/utils/summon.cfg:373 Era_of_Magic/utils/summon.cfg:426
+#: Era_of_Magic/utils/summon.cfg:475 Era_of_Magic/utils/summon.cfg:524
+#: Era_of_Magic/utils/summon.cfg:573 Era_of_Magic/utils/summon.cfg:626
+msgid ""
+" this unit can create other units in the near free spaces, but not in "
+"villages."
+msgstr ""
+
+#. [dummy]: id=summon_roc
+#: Era_of_Magic/utils/summon.cfg:584
+msgid "summon roc"
+msgstr ""
+
+#. [dummy]: id=summon_roc
+#: Era_of_Magic/utils/summon.cfg:586
+msgid ""
+"Summon Roc:\n"
+"this unit can summon new units near him, but not in villages."
 msgstr ""
