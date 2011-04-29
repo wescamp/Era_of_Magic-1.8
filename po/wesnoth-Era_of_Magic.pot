@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-03-29 06:58+0200\n"
+"POT-Creation-Date: 2011-04-29 17:07+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,7 +185,7 @@ msgstr ""
 
 #. [attack]: type=arcane
 #. [attack]: type=fire
-#: ./Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:61 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:74 ./Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:37 ./Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:64
+#: ./Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:76 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:89 ./Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:37 ./Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:64
 msgid "eye"
 msgstr ""
 
@@ -422,7 +422,7 @@ msgstr ""
 
 #. [attack]: type=pierce
 #. [attack]: type=impact
-#: ./Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:43 ./Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:44 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:48 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:195
+#: ./Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:43 ./Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:44 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:51 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:198
 msgid "charge"
 msgstr ""
 
@@ -678,7 +678,7 @@ msgstr ""
 #. [attack]: type=arcane
 #. [attack]: type=cold
 #. [attack]: type=fire
-#: ./Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:154 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:92 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:92 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:93 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:156 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:54 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:60 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:207 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:31 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:81
+#: ./Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:154 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:92 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:95 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:93 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:156 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:54 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:60 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:210 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:31 ./Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:81
 msgid "missile"
 msgstr ""
 
@@ -713,7 +713,7 @@ msgid "Deadly Eyes are Magical Eyes that have somehow evolved. They can now soli
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:62
+#: ./Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:77
 msgid "blades"
 msgstr ""
 
@@ -1464,7 +1464,7 @@ msgstr ""
 
 #. [damage]: id=i8grenade
 #. [attack]: type=pierce
-#: ./Era_of_Magic/utils/abilities.cfg:748 ./Era_of_Magic/utils/abilities.cfg:749 ./Era_of_Magic/units/Runemasters/AD_Technician.cfg:84 ./Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
+#: ./Era_of_Magic/utils/abilities.cfg:766 ./Era_of_Magic/utils/abilities.cfg:767 ./Era_of_Magic/units/Runemasters/AD_Technician.cfg:84 ./Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
 msgid "grenade"
 msgstr ""
 
@@ -1645,7 +1645,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:18
-msgid "Air avatars have distinguished themselves further from mere elementals, developing into stormy vortexes, wind and dark clouds circulating inside and outside itself. Avatars have transformed into breathing tempests. Gaining a more substantial body, avatars are less susceptible the common weaponry of swords and arrows. Air avatars guide themselves with the currents they have created, drifting from place to place, crackling with lightning from within their ethereal innards."
+msgid "Air avatars have distinguished themselves from mere elementals, developing into stormy vortexes, wind and dark clouds circulating inside and outside itself. Avatars have transformed into breathing tempests. Gaining a more substantial body, avatars are less susceptible the common weaponry of swords and arrows. Air avatars guide themselves with the currents they have created, drifting from place to place, crackling with lightning from within their ethereal innards."
 msgstr ""
 
 #. [attack]: type=impact
@@ -1660,7 +1660,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:16
-msgid "Avatars of the earth, though colossal, are slow-moving, dulled by the weight of their bulk. For this reason, earth avatars are bought out into the battlefield for defending important landmarks such as mountains and hilltops. Situated in defensible areas, avatars with their outlandish strength crush parties of opposition while bracing against all varieties of attacks. When all is done, these giants stand still and tall like massive sculptures; over time, avatars begin to house tiny sprigs of vegetation growing outside of its rocky cracks."
+msgid "Avatars of the earth, though colossal, are slow-moving, hobbled by the weight of their bulk. For this reason, earth avatars are bought out into the battlefield for defending important landmarks such as mountains and hilltops. Situated in defensible areas, avatars with their outlandish strength crush parties of opposition while bracing against all varieties of attacks. When all is done, these giants stand still and tall like massive sculptures; over time, avatars begin to house tiny sprigs of vegetation growing outside of its rocky cracks."
 msgstr ""
 
 #. [attack]: type=impact
@@ -1675,7 +1675,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:17
-msgid "After fire consumes enough fuel-and by fuel: flesh, bones, wood, iron, even entire landscapes-it will unavoidably grow into something far more sinister in shape and body. It is a dreadful sight to behold the fire avatar as it takes flight with its fiery wings, casting a blazing light on earth and man. The magic within its body has honed, granting the avatar a magical potency in its fire-wrought claws. Only dauntless summoners are able to lead such devastating beings in war without fear of being reduced to ashes."
+msgid "After fire consumes enough fuel-flesh, bones, wood, iron, even entire landscapes-it will unavoidably grow into something far more sinister in shape and body. It is a dreadful sight to behold the fire avatar as it takes flight with its fiery wings, casting a blazing light on earth and man. The magic within its body has honed, granting the avatar a magical potency in its fire-wrought claws. Only dauntless summoners are able to lead such devastating beings in war without fear of being reduced to ashes."
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
@@ -1685,7 +1685,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:25
-msgid "With time, the water elemental rises drastically in size and current into something grander: an avatar of water. Ceaselessly turning in hypnotizing spirals of surges, water avatars manipulate their bodies into whatever form suits the battle. Their bodies have become tumultuous and wilder in the heat of combat, their whole form a chaotic typhoon of rain and water. To this effect, many a dazed soldier have sometimes wondered why the frothy tides of a beach were pulling at his feet in the middle of a battlefield."
+msgid "With time, the water elemental dramatically increases both its size and strength of current to become something grander: an avatar of water. Ceaselessly turning in hypnotizing spirals of surges, water avatars manipulate their bodies into whatever form suits the battle. Their bodies have become tumultuous and wilder in the heat of combat, their whole form a chaotic typhoon of rain and water. To this effect, many a dazed soldier have sometimes wondered why the frothy tides of a beach were pulling at his feet in the middle of a battlefield."
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
@@ -1721,13 +1721,13 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: ./Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:20
 msgid ""
-"For the fledgling soldier, camels are a rare spectacle to be seen on the fronts. Unlike their traditional brothers and sisters ridden on as beasts of burden for traveling traders, the camels seen in battle are specially bred for speed and power rather than endurance. Riders carry on a scimitar on hand for melee skirmishes as well as dozens of smaller scimitars for hurling at faraway targets, a skill for which the camel rider is acclaimed for.\n"
+"For the fledgling soldier, camels are a rare spectacle to be seen on the fronts. Unlike their traditional brothers and sisters used as beasts of burden for traveling traders, the camels seen in battle are specially bred for speed and power rather than endurance. Riders carry a scimitar for melee skirmishes as well as dozens of smaller scimitars to hurl at faraway targets, a skill for which the camel rider is acclaimed for.\n"
 "\n"
 "Trained in scouting and hit-and-run warfare, camel riders are the forerunners of the Summoners' brunt strength, moving at galloping speed into the fray."
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:117 ./Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:147 ./Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:32 ./Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:120 ./Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:121 ./Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:88 ./Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:98 ./Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:33
+#: ./Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:117 ./Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:147 ./Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:89 ./Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:32 ./Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:120 ./Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:121 ./Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:98 ./Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:33
 msgid "scimitar"
 msgstr ""
 
@@ -1743,7 +1743,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: ./Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:19
-msgid "Captains of the winds, any carpet master can attest to having ridden the skies more times than he can count. A carpet master's worth is still his ability to scout over long distances, though his ranged attacks have become something to be feared. Through battle, his accuracy with the powder bombs has improved considerably, allowing him to strike even the most elusive or well-protected of targets. Prized with a more regal carpet, the carpet master soars through the air as effortlessly as any bird would."
+msgid "Captains of the winds, any carpet master can attest to having ridden the skies more times than he can count. A carpet master's worth is still his ability to scout over long distances, though his ranged attacks have become something to be feared. Through battle, his accuracy with the powder bombs has improved considerably, allowing him to strike even the most elusive or well-protected of targets. Prized with a more regal carpet, the carpet master soars through the air as effortlessly as any bird."
 msgstr ""
 
 #. [attack]: type=cold
@@ -1760,9 +1760,9 @@ msgstr ""
 #: ./Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:21
 msgid ""
 "\n"
-"According to legend, the magic carpet originated from the desires of of a wealthy princess. She wished for a new mode of traveling that would be convenient and relaxing, yet ostentatious enough for her tastes. Carriages and camels were too common and bland in her eyes, for she sought something that would revolutionize transportation in the Summoners' society. Eventually, one of her expert sorcerers wove enchanted pieces of fabric together to form what he called a 'flying carpet.' Soon after, all affluent men and women began riding these magic carpets for their personal endeavors.\n"
+"According to legend, the magic carpet originated from the desires of of a wealthy princess. She wished for a new mode of traveling that would be convenient and relaxing, yet ostentatious enough for her tastes. Carriages and camels were too common and bland in her eyes, so she sought something that would revolutionize transportation in the Summoners' society. Eventually, one of her expert sorcerers wove enchanted pieces of fabric together to form what he called a 'flying carpet.' Soon after, all affluent men and women began riding these magic carpets for their personal endeavors.\n"
 "\n"
-"Inevitably, magic carpets became of great importance in times of war, rode only by the most hotshot and fearless young men. Atop their strange mounts, these aces of the sky perform impressive feats of reconnaissance and speed. A magical carpet cannot hold much weight, so their riders are armed with explosive powder bombs which they use to attack and disorient their targets."
+"Inevitably, magic carpets became of great importance in times of war, ridden only by the most hotshot and fearless young men. Atop their strange mounts, these aces of the sky perform impressive feats of reconnaissance and speed. A magical carpet cannot hold much weight, so their riders are armed with explosive powder bombs which they use to attack and disorient their targets."
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
@@ -1773,7 +1773,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #. [unit_type]: id=I8 Ak_Enchanted, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:16 ./Era_of_Magic/units/Summoners/AlKamija_DG.cfg:120
-msgid "The most inexperienced of summoners are capable of summoning only dimensional gates: unstable bridges of arcane energy between this world and the Abyss. Dimensional gates, though primitive as they are, are capable of surging forth with accurate pinpoint attacks of arcane matter. Although weak and fragile, a single fallen life is all that the gate requires in order to solidify itself into a true door for a being from the Abyss to emerge out of."
+msgid "The most inexperienced of summoners are capable of summoning only dimensional gates: unstable bridges of arcane energy between this world and the Abyss. Dimensional gates, though primitive, are capable of surging forth with accurate pinpoint attacks of arcane matter. Although weak and fragile, a single fallen life is all that the gate requires in order to solidify itself into a true door for a being from the Abyss to emerge out of."
 msgstr ""
 
 #. [attack]: type=arcane
@@ -1798,7 +1798,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_DharmaRhami, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:18
-msgid "Dharma'rhamis are inflamed with blood-red skin, ornamented in trinkets and carrying a spear with their other two blades. Their appearances grant them the assumption of being hot-tempered in combat, but outwards they are calm and judicious, fighting with no lust for bloodshed. Still, they are driven with a mysterious intent for vengeance in the summoners' ranks. Just as keen with their weaponry as their lesser beings, opposition will crushed by a DharmaRhami with brutal force and tactics."
+msgid "Dharma'rhamis are inflamed with blood-red skin, ornamented in trinkets and carrying a spear with their other two blades. Their appearances grant them the assumption of being hot-tempered in combat, but outwards they are calm and judicious, fighting with no lust for bloodshed. Still, they are driven with a mysterious intent for vengeance in the summoners' ranks. Just as keen with their weaponry as their lesser beings, opposition will crushed by a Dharma'rhami with brutal force and tactics."
 msgstr ""
 
 #. [attack]: type=blade
@@ -1820,7 +1820,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: ./Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:19
 msgid ""
-"Some Summoners choose opposite path of the summoning arts, which is known as the art of banishment. Instead of bringing magical beings to this world, they specialize in sending them back to Abyss. Having this useful knowledge, dispellers are often called by summoners, when something goes wrong, for example when an Efreeti rebels.\n"
+"Some Summoners choose opposite path of the summoning arts, which is known as the art of banishment. Instead of bringing magical beings to this world, they specialize in sending them back to Abyss. Having this useful knowledge, dispellers are often called by summoners when something goes wrong, for example when an Efreeti rebels.\n"
 "Special Notes: Banish: this unit can effecively fight with magical units by turning them into Dimensional Gates."
 msgstr ""
 
@@ -1848,7 +1848,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:19
-msgid "Great efreeti's seethe with a fiery rage that manifests itself in the form of their magic's wake. In bodies of smoldering heat and flames, both militants and civilians have been burnt mercilessly to charred remains and then to ashes by these fervent beings. Settlements are annihilated overnight by a great efreeti, leaving nothing left but smoldering ruins. Little has anyone understood of their intent or anger, but little does it matter to the summoners who drive them forward, making as much use as possible of their blasts of hellfire and ravaging firestorms."
+msgid "Great efreetis seethe with a fiery rage that manifests itself in the form of their magic's wake. In bodies of smoldering heat and flames, both militants and civilians have been burnt mercilessly to charred remains and then to ashes by these fervent beings. Settlements are annihilated overnight by a great efreeti, leaving nothing left but smoldering ruins. Little has anyone understood of their intent or anger, but little does it matter to the summoners who drive them forward, making as much use as possible of their blasts of hellfire and ravaging firestorms."
 msgstr ""
 
 #. [attack]: type=impact
@@ -1864,7 +1864,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:20
 msgid ""
-"Air elementals are magical entities built entirely out of the Abyss' atmosphere. Summoned elementals, introduced in a world where air is omnipresent, regenerate their bodies continually with time's passage. Given their anatomies, elementals of this variety are quick and evasive, albeit having a delicate frame that could be destroyed instantly by a well-placed attack. However, a 'well-placed attack' would be difficult to place on these elementals, given their highly resistant bodies of air.\n"
+"Air elementals are magical entities built entirely out of the Abyssal atmosphere. Summoned elementals, introduced in a world where air is omnipresent, regenerate their bodies continually with time's passage. Given their anatomies, elementals of this variety are quick and evasive, albeit having a delicate frame that could be destroyed instantly by a well-placed attack. However, a 'well-placed attack' would be difficult to place on these elementals, given their highly resistant bodies of air.\n"
 "\n"
 "Still, summoners who stir such beings into their world know that an air elemental could vanish just as quickly as it was summoned forth."
 msgstr ""
@@ -1918,9 +1918,9 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:21
 msgid ""
-"Men fear the wind-what can be a gentle zephyr in the afternoon can turn into a twister in the evening. Wind and storm can turn the staunchest man into a rag doll dancing in the sky; lightning will then shoot him down back to earth. Yet air gods have much more to be feared for, riding upon their own wind and bringing about their own disasters at any moment when ordered. Gods of the air are nigh immune to nearly all physical assaults with their bodies that appear almost identical to an actual storm.\n"
+"Men fear the wind-what can be a gentle zephyr in the afternoon can turn into a twister in the evening. Wind and storm can turn the staunchest man into a rag doll dancing in the sky; lightning will then shoot him down back to earth. Yet air gods have much more to be feared, for they ride upon their own wind and bring about disasters at a mere order. Gods of the air are nigh immune to physical assault with bodies that appear almost identical to an actual storm.\n"
 "\n"
-"Summoners believe that even the heavens quake upon the sight of this great nimbus of raging thunder and rain living in the skies, extending calamity to wherever its eye of the storm gazes."
+"Summoners believe that even the heavens quake upon the sight of this great nimbus of raging thunder and rain living in the skies, extending calamity to wherever the eye of its storm gazes."
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
@@ -1930,7 +1930,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:17
-msgid "Earth gods are simply gargantuan: one raised fist can shake the very foundations of the land. Many tales have been told about the work of such gods who lumber across the earth, so great in size that entire villages are dwarfed by their presence. Bulwarks against the strongest swords, lances, and spells, packing enough force to pulverize dozens in a single downward strike, and continuously regenerating their stony bodies, earth gods are no easy feat to bring down-even to bring down to their knees."
+msgid "Earth gods are simply gargantuan: one raised fist can shake the very foundations of the land. Many tales have been told about the work of such gods who lumber across the earth, so great in size that entire villages are dwarfed by their presence. Bulwarks against the strongest swords, lances, and spells, packing enough force to pulverize dozens in a single downward strike, and continuously regenerating their stony bodies, earth gods are no easy feat to bring down-or even force back."
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
@@ -1940,7 +1940,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:18
-msgid "Upon reaching the pinnacle of its conflagration, the elemental has utterly become a moving inferno, a god of its own respect. Even the summoners who have bought such legends from the Abyss tremble at the sight of the flying phoenix aflame, its massive wings sending sparks and embers downwards onto the far-below ground. Growing brighter and stronger with every foe fed into its flames, the fire god appears as a miniature sun in the darkest of nights. Everything in its marked path is scorched ablaze."
+msgid "Upon reaching the pinnacle of its conflagration, the elemental has utterly become a moving inferno, a god of its own respect. Even the summoners who have bought such legends from the Abyss tremble at the sight of the flying phoenix aflame, its massive wings sending sparks and embers downwards onto the far-below ground. Growing brighter and stronger with every foe fed into its flames, the fire god appears as a miniature sun in the darkest of nights. Everything in its marked path is set ablaze."
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
@@ -1963,7 +1963,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: ./Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:19
-msgid "Camels and riders that survive their first battles together and become verse in their skill are promoted to the next and highest rank, the heavy camel rider. With their new status, heavy camel riders distinguish themselves from the rest of their comrades by adorning their mount and themselves with colorful clothes, amulets, and beads. In times of peace, they train small groups of less experienced riders, while in war they perform the role of vanguard, riding ahead of summoners and their elementals."
+msgid "Camels and riders that survive their first battles together and become versed in their skill are promoted to the next and highest rank, the heavy camel rider. With their new status, heavy camel riders distinguish themselves from the rest of their comrades by adorning their mount and themselves with colorful clothes, amulets, and beads. In times of peace, they train small groups of less experienced riders, while in war they perform the role of vanguard, riding ahead of summoners and their elementals."
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
@@ -1974,11 +1974,11 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: ./Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:23
 msgid ""
-"A summoner trained in the 'heavy arts' holds a unique advantage over other summoners of the Third Degree: the knowledge of summoning a support-based circle around themselves and their allies. Circles of resistance will shield off incoming magical attacks, lessening their impact and protecting the heavy summoner's comrades at all times.\n"
+"A summoner trained in the 'heavy arts' holds a unique advantage over other summoners of the Third Degree: the knowledge of summoning a support-based circle around themselves and their allies. Circles of resistance will ward off incoming magical attacks, lessening their impact and protecting the heavy summoner's comrades.\n"
 "\n"
 "Heavy summoners are disciplined to fight in direct face-to-face brawls, boasting physiques built for resilience and strength. Rather than focusing their training on the summoning arts, they cultivate their brawn through their years to dominate fights in close-range. Heavy summoners still know their Second Degree's ability of summoning magical arrows, though it is an ability that has been forsaken for the sake of their muscles.\n"
 "\n"
-"Like their fellow neutral summoners, heavy summoners can call forth the Rhami's from the Abyss through their summoning circles."
+"Like their fellow neutral summoners, heavy summoners can call forth Rhamis from the Abyss through their summoning circles."
 msgstr ""
 
 #. [attack]: type=fire
@@ -1998,7 +1998,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:18
-msgid "Ho'rhamis are the generals of the summoners' armies, looking down upon the battlefield with an impartial eye. Though still avengers at heart, HoRhamis, as leaders, have grasped how to weigh down the importance of some lives of their companions with others. When leading the front line battles, HoRhamis strike with ferocity, their twin spears piercing and dissecting live men into shreds. Even their inner magic has emerged to form the shape of a spear, attacking opponents from afar with precise deadliness."
+msgid "Ho'rhamis are the generals of the summoners' armies, looking down upon the battlefield with an impartial eye. Though still avengers at heart, Ho'rhamis, as leaders, have grasped how to balance the importance of the lives of their companions. When leading in the front lines, Ho'rhamis strike with ferocity, their twin spears piercing and vivisecting live men. Even their inner magic has emerged to form the shape of a spear, attacking opponents from afar with precise deadliness."
 msgstr ""
 
 #. [attack]: type=blade
@@ -2023,7 +2023,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:18
-msgid "Jinns are special by even summoners' standards due to their cognitive process to think, comprehend, learn, and even talk: an affinity that no other elemental from the Abyss can ever acquire. Made entirely of magic, jinns are vulnerable to the arcane magicks though more resilient against tangible weapons. These entities, while being able to err like humans, are valued allies of the summoners, with their curious thoughts always wandering about."
+msgid "Jinns are special by even summoners' standards due to their cognitive process to think, comprehend, learn, and even talk: an affinity that no other elemental from the Abyss can ever acquire. Made entirely of magic, jinns are vulnerable to the arcane magicks though more resilient against tangible weapons. These entities, while able to err like humans, are valued allies of the summoners, with their curious thoughts always wandering about."
 msgstr ""
 
 #. [attack]: type=blade
@@ -2039,9 +2039,9 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:19
 msgid ""
-"New summoners learn early on that jinns are much more different than the elementals they have summoned from the Abyss. Jinns bear an insatiable thirst for knowledge that will soon ascend them to become great jinns. Wiser than their own masters now and possessing some fundamentals of summoning, great jinns are treated similarly to humans, if not more as more insightful.\n"
+"New summoners learn early on that jinns are much different from the elementals they have summoned from the Abyss. Jinns bear an insatiable thirst for knowledge that will soon cause them to become great jinns. Wiser than their own masters and possessing some fundamentals of summoning, great jinns are treated similarly to humans, if not better for their insight.\n"
 "\n"
-"Great jinns frequently hold positions of authority, commanding divisions and even having a place of power in councils. Gifted with quick minds, great jinns still search for answers to life's questions, despite what position they are given."
+"Great jinns frequently hold positions of authority, commanding divisions and even having a place of power in councils. Gifted with quick minds, great jinns still search for answers to life's questions, despite the position they have."
 msgstr ""
 
 #. [attack]: type=blade
@@ -2059,7 +2059,7 @@ msgstr ""
 msgid ""
 "'What is enlightenment? Is it the curtain of darkness that falls upon a man's eyelids when death creep-crawls upon him? Is it the bright red of splattered blood that has been gurgled from a choked throat? The ripping of the world's fabrics as they are torn apart? Or the death-sounds that soldiers finally utter before my magic enters their hearts? I do not know.\n"
 "\n"
-"Yet there comes a certain satisfaction that can only be acquired through what I have toiled, what I have carried out in the ages of man. It is a pleasure so oil-smoothed that my existence cannot help but cry out in happiness. But there is more out there...other worlds that I have only begun to explore. As deep as my power may run, it is insubstantial in the face of greater things. I need to ascertain all the worlds there are, no matter how many they are in number, or how wide and how far they span across the universes.\n"
+"Yet there comes a certain satisfaction that can only be acquired through what I have toiled, what I have carried out in the ages of man. It is a pleasure so oil-smooth that my existence cannot help but cry out in happiness. But there is more out there...other worlds that I have only begun to explore. As deep as my power may run, it is insubstantial in the face of greater things. I need to ascertain all the worlds there are, no matter how many they are in number, or how wide and how far they span across the universes.\n"
 "\n"
 "Beyond imagination, I shall reach out and grasp whatever lies in the shadows for me. Even if I must create millions of voids across millions of dimensions, I shall persist in my pursuit of knowledge. I will learn more. I will discover more.'\n"
 "\n"
@@ -2078,7 +2078,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:17
-msgid "Wonderful jinns are sages in the summoners' society, spreading their wisdom to any ear willing to listen. Their unequaled imagination and intellect of the world is evident through their vast multitude of elemental and arcane spells. Jinns of high calibers have taught themselves how to perform offensive summonings, an attainment that earns them prominent respect among their human peers. Wonderful jinns have long since been independent, servants to their masters no longer. It is a mystery as to whether or not they have sated their immeasurable thirst, for they still follow the orders of their superiors and have not yet retired into the shadows of the world."
+msgid "Wonderful jinns are sages in the summoners' society, spreading their wisdom to any ear willing to listen. Their unequaled imagination and intellect of the world is evident through their vast multitude of elemental and arcane spells. Jinns of such high caliber have taught themselves how to perform offensive summonings, an attainment that earns them prominent respect among their human peers. Wonderful jinns have long since been independent, servants to their masters no longer. It is a mystery as to whether or not they have sated their immeasurable thirst, for they still follow the orders of their superiors and have not yet retired into the shadows of the world."
 msgstr ""
 
 #. [attack]: type=arcane
@@ -2087,17 +2087,17 @@ msgid "ultra circle"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
-#: ./Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:4
+#: ./Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:4
 msgid "Neutral Summoner"
 msgstr ""
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
-#: ./Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:19
-msgid "Summoners of the Third Degree, neutral summoners are the most enigmatic of their slew. These summoners specialize in strange enfeebling magic that robs the life of foes with every strike. A covert group among summoners, neutral summoners infuse their scimitars with their 'draining' magic and also have learned to create their own unique circles of the same magic. Neutral summoners are able to summon the agile Rhami's through complex circles that connect their world with the Abyss."
+#: ./Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:19
+msgid "Neutral summoners are the most enigmatic of the Summoners of the Third Degree. These summoners specialize in strange enfeebling magic that robs the life of foes with every strike. A covert group among summoners, neutral summoners infuse their scimitars with their 'draining' magic and also have learned to create their own unique circles of the same magic. Neutral summoners are able to summon the fas Jinns through complex circles that connect their world with the Abyss."
 msgstr ""
 
 #. [attack]: type=fire
-#: ./Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:109
+#: ./Era_of_Magic/units/Summoners/AlKamija_NeutralSummoner.cfg:110
 msgid "circle of balance"
 msgstr ""
 
@@ -2108,7 +2108,7 @@ msgstr ""
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:17
-msgid "The Rhami's are a race of limber and swift creatures residing in the Abyss. Four-armed and, like jinns, blessed with the gift of intelligence, Rhami's carry out their work as the precise strike force of the summoners. Due to some foreign magical affinity, Rhami's regenerate their bodies promptly after becoming wounded. They are armed with a blade in each hand, casting blows and slashes with astonishing, inhuman speed. Through their four blades and spryness, a Rhami can dive into combat and strike before their foes' reflexes can react. Rhami's are fiercely loyal and search to enact revenge upon their fallen comrades."
+msgid "Rhamis are a race of limber and swift creatures residing in the Abyss. Four-armed and, like jinns, blessed with the gift of intelligence, Rhamis carry out their work as the precise strike force of the summoners. Due to some foreign magical affinity, Rhamis regenerate their bodies promptly after becoming wounded. They are armed with a blade in each hand, casting blows and slashes with astonishing inhuman speed. Through their four blades and spryness, a Rhami can dive into combat and strike before their foes can react. Rhamis are fiercely loyal and search to enact revenge upon their fallen comrades."
 msgstr ""
 
 #. [attack]: type=blade
@@ -2124,9 +2124,9 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
 #: ./Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:19
 msgid ""
-"Embellished in a body of gilded-gold, and always seen with a trinket of elemental fire dangling from a hand, Rhami'datus have become eagle-eyed, slicing incisively with their killing edges. RhamiDatus have learned to wield fire at their disposal, turning them into the pyromancers of the summoners, second to fire elementals but far more intelligent.\n"
+"Embellished in a body of gilded-gold, and always seen with a trinket of elemental fire dangling from one hand, Rhami'datus have become eagle-eyed, slicing incisively with their killing edges. Rhami'datus have learned to wield fire, turning them into the pyromancers of the summoners, second to fire elementals but far more intelligent.\n"
 "\n"
-"Most of these Rhami's are promoted into commanding positions though some prefer entering frays alongside their companions, fulfilling their roles as ardent avengers for the dead."
+"Most of these Rhamis are promoted into commanding positions, though some prefer entering frays alongside their companions, fulfilling their roles as ardent avengers for the dead."
 msgstr ""
 
 #. [attack]: type=blade
@@ -2154,7 +2154,7 @@ msgstr ""
 msgid ""
 "Pupils of the summoning world are first taught the inscriptions and symbols fundamental to their craft. Lacking the experience that comes with age and combat, novices are unable to apply these arts without the aid of mediums, such as scrolls of parchment for fiery evocations. Summoning is an exact art, however, and even the most elementary spells will hit with certainty.\n"
 "\n"
-"Unlike the magi of other societies, novice summoners are by no means frail, and are proficient with both scimitars and their bare hands.\n"
+"Unlike the magi of other societies, novice summoners are by no means frail, and are proficient with both scimitars and their bare hands in combat.\n"
 "\n"
 "Special Notes: Precison: The ranged attack of this unit always has an 80% chance to hit."
 msgstr ""
@@ -2185,7 +2185,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: ./Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:20
 msgid ""
-"Summoners, scholars and warriors alike, will eventually reach the Second Degree provided with enough talent and cunning. The Third Degree, however, does not come easily to non-geniuses of the arts. 'Grand summoners,' as they are called by their peers, value both war and wisdom equally in earning their precious knowledge of summoning elementals from the Abyss. Respected and feared, grand summoners eliminate foes with absolute certainty in the wake of their circles of destruction.\n"
+"Summoners, scholars and warriors alike will eventually reach the Second Degree provided enough talent and cunning. The Third Degree, however, does not come easily to non-geniuses of the arts. 'Grand summoners,' as they are called by their peers, value both war and wisdom equally in earning their precious knowledge of summoning elementals from the Abyss. Respected and feared, grand summoners eliminate foes with absolute certainty in the wake of their circles of destruction.\n"
 "\n"
 "Special Notes: Circle: The ranged attack of this unit always has a 100% chance to hit."
 msgstr ""
@@ -2203,9 +2203,9 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: ./Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:24
 msgid ""
-"Few men in all of history have ever embraced the veiled mystery that comes naturally with the title of the Fourth Degree. These are men in the world who can wield the entire power of the Abyss with their right arm and the whole devastation of summoning magic with their left. The culmination of all summoning arts crafted and comprehended in history has been attained by a summons master.\n"
+"Few men in all of history have ever embraced the veiled mystery that comes naturally with the title of the Fourth Degree. These are men who can wield the entire power of the Abyss with their right arm and the complete devastation of summoning magic with their left. A summons master has attained the culmination of all summoning arts crafted and comprehended in history.\n"
 "\n"
-"Encircling a summons master is his very magnum opus: the megacircle. The circle teems with magicks of all imaginations-magicks to empower, mend, bless, cure, destroy, create, remake. With the vast and mystic megacircle, the air itself screams as elementals burst forth from their world into this one through the circle's earthly inscriptions. Men within the master's circle are invested with supernatural gifts, their wounds closing up by the aid of pure magic and their strength jumping twofold. Towers of heavenly light shriek into the skies from the megacircle's symbols, obliterating all within range.\n"
+"Encircling a summons master is his magnum opus: the megacircle. The circle teems with magicks of all imaginations—magicks to empower, mend, bless, cure, destroy, create, and remake. Within the vast and mystic megacircle, the air itself screams as elementals burst forth from their world into this one through the circle's unearthly inscriptions. Men within the master's circle are invested with supernatural gifts, their wounds closing by the aid of pure magic and their strength jumping twofold. Towers of heavenly light shriek into the skies from the megacircle's symbols, obliterating all within range.\n"
 "\n"
 "All around the summons master, miracles occur. Ruin is wrought."
 msgstr ""
@@ -2772,81 +2772,93 @@ msgid ""
 "This unit and all adjacent friendly units receive a +20% bonus to fire, cold and arcane resistance."
 msgstr ""
 
-#. [resistance]: id=deadzone
+#. [resistance]: id=cr
 #: ./Era_of_Magic/utils/abilities.cfg:274
+msgid "circle of susceptibility"
+msgstr ""
+
+#. [resistance]: id=cr
+#: ./Era_of_Magic/utils/abilities.cfg:276
+msgid ""
+"Circle of Susceptibility:\n"
+"This unit and all adjacent friendly units receive a -20% to fire, cold and arcane resistance."
+msgstr ""
+
+#. [resistance]: id=deadzone
+#: ./Era_of_Magic/utils/abilities.cfg:292
 msgid "deadzone"
 msgstr ""
 
 #. [resistance]: id=deadzone
-#: ./Era_of_Magic/utils/abilities.cfg:276
+#: ./Era_of_Magic/utils/abilities.cfg:294
 msgid ""
 "Deadzone:\n"
 "Adjacent friendly units receive a 99% bonus to fire,cold and arcane resistance"
 msgstr ""
 
 #. [resistance]: id=coldaura
-#: ./Era_of_Magic/utils/abilities.cfg:291
+#: ./Era_of_Magic/utils/abilities.cfg:309
 msgid "cold aura"
 msgstr ""
 
 #. [resistance]: id=coldaura
-#: ./Era_of_Magic/utils/abilities.cfg:293
+#: ./Era_of_Magic/utils/abilities.cfg:311
 msgid ""
 "Cold Aura:\n"
 "Adjacent units receive a 50% bonus to fire resistance and a -25% bonus to cold resistance. All cold spells are very powerful here."
 msgstr ""
 
 #. [chance_to_hit]: id=i8revenge
-#: ./Era_of_Magic/utils/abilities.cfg:322 ./Era_of_Magic/utils/abilities.cfg:325
+#: ./Era_of_Magic/utils/abilities.cfg:340 ./Era_of_Magic/utils/abilities.cfg:343
 msgid "revenge"
 msgstr ""
 
 #. [chance_to_hit]: id=i8revenge
-#: ./Era_of_Magic/utils/abilities.cfg:324 ./Era_of_Magic/utils/abilities.cfg:327
+#: ./Era_of_Magic/utils/abilities.cfg:342 ./Era_of_Magic/utils/abilities.cfg:345
 msgid ""
 "revenge:\n"
 "The unit has always a 100% chance to hit, during retalitation."
 msgstr ""
 
 #. [dummy]: id=i8 kamikaze
-#: ./Era_of_Magic/utils/abilities.cfg:339
+#: ./Era_of_Magic/utils/abilities.cfg:357
 msgid "kamikaze"
 msgstr ""
 
 #. [dummy]: id=i8 kamikaze
-#: ./Era_of_Magic/utils/abilities.cfg:340
+#: ./Era_of_Magic/utils/abilities.cfg:358
 msgid "Kamikaze: this unit always hits a target when attacking, but it dies instantly."
 msgstr ""
 
 #. [dummy]: id=i8hitandrun
-#: ./Era_of_Magic/utils/abilities.cfg:363
+#: ./Era_of_Magic/utils/abilities.cfg:381
 msgid "hit and run"
 msgstr ""
 
 #. [dummy]: id=i8hitandrun
-#: ./Era_of_Magic/utils/abilities.cfg:365
+#: ./Era_of_Magic/utils/abilities.cfg:383
 msgid ""
 "Hit and Run:\n"
 "This unit gains 3 moves back after attacking, but cannot attack again."
 msgstr ""
 
 #. [unstore_unit]
-#: ./Era_of_Magic/utils/abilities.cfg:379
+#: ./Era_of_Magic/utils/abilities.cfg:397
 msgid "FLEE!"
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: ./Era_of_Magic/utils/abilities.cfg:389
+#: ./Era_of_Magic/utils/abilities.cfg:407
 msgid "mountain ambush"
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: ./Era_of_Magic/utils/abilities.cfg:390
+#: ./Era_of_Magic/utils/abilities.cfg:408
 msgid " mountain ambush"
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: ./Era_of_Magic/utils/abilities.cfg:394
+#: ./Era_of_Magic/utils/abilities.cfg:412
 msgid ""
 "Mountain Ambush:\n"
 "This unit can hide in mountains and hills, and remain undetected by its enemies.\n"
@@ -2855,7 +2867,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=mountainambush
-#: ./Era_of_Magic/utils/abilities.cfg:398
+#: ./Era_of_Magic/utils/abilities.cfg:416
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -2864,74 +2876,74 @@ msgid ""
 msgstr ""
 
 #. [dummy]: id=i8fury
-#: ./Era_of_Magic/utils/abilities.cfg:415
+#: ./Era_of_Magic/utils/abilities.cfg:433
 msgid "fury"
 msgstr ""
 
 #. [dummy]: id=i8fury
-#: ./Era_of_Magic/utils/abilities.cfg:417
+#: ./Era_of_Magic/utils/abilities.cfg:435
 msgid ""
 "Fury:\n"
 "This unit can attack another after killing an enemy."
 msgstr ""
 
 #. [unstore_unit]
-#: ./Era_of_Magic/utils/abilities.cfg:438
+#: ./Era_of_Magic/utils/abilities.cfg:456
 msgid "FURY!"
 msgstr ""
 
 #. [damage]: id=i8furiousdeath
-#: ./Era_of_Magic/utils/abilities.cfg:517
+#: ./Era_of_Magic/utils/abilities.cfg:535
 msgid "furious death"
 msgstr ""
 
 #. [damage]: id=i8furiousdeath
-#: ./Era_of_Magic/utils/abilities.cfg:518
+#: ./Era_of_Magic/utils/abilities.cfg:536
 msgid "Furious Death: When this unit dies, it flies into a fury. The unit with this ability atacks all adjecent units and then it finally dies."
 msgstr ""
 
 #. [damage]: id=i8battlefrenzy
-#: ./Era_of_Magic/utils/abilities.cfg:532 ./Era_of_Magic/utils/abilities.cfg:533
+#: ./Era_of_Magic/utils/abilities.cfg:550 ./Era_of_Magic/utils/abilities.cfg:551
 msgid "battlefrenzy"
 msgstr ""
 
 #. [damage]: id=i8battlefrenzy
-#: ./Era_of_Magic/utils/abilities.cfg:534
+#: ./Era_of_Magic/utils/abilities.cfg:552
 msgid "Battlefrenzy: When this attack is used, this units gets an extra strike and additional damage (+2) after each successful hit. Does not work on defence."
 msgstr ""
 
 #. [damage]: id=i8battlefrenzy
-#: ./Era_of_Magic/utils/abilities.cfg:535
+#: ./Era_of_Magic/utils/abilities.cfg:553
 msgid "Battlefrenzy: This unit gets one extra strike and additional damage (+2) with each hit during attack. Does not work on defense."
 msgstr ""
 
 #. [dummy]: id=i8hardlanding
-#: ./Era_of_Magic/utils/abilities.cfg:643
+#: ./Era_of_Magic/utils/abilities.cfg:661
 msgid "Hard landing"
 msgstr ""
 
 #. [dummy]: id=i8hardlanding
-#: ./Era_of_Magic/utils/abilities.cfg:644
+#: ./Era_of_Magic/utils/abilities.cfg:662
 msgid "Hard landing: When this large unit is destroyed, it falls on a ground dealing damage to all adjecent units. "
 msgstr ""
 
 #. [dummy]: id=i8parachute
-#: ./Era_of_Magic/utils/abilities.cfg:651
+#: ./Era_of_Magic/utils/abilities.cfg:669
 msgid "parachute"
 msgstr ""
 
 #. [dummy]: id=i8parachute
-#: ./Era_of_Magic/utils/abilities.cfg:652
+#: ./Era_of_Magic/utils/abilities.cfg:670
 msgid "Parachute: The pilot of this machine is equipped with parachute and he can survive a destruction of his vehicle."
 msgstr ""
 
 #. [heals]: id=i8repair
-#: ./Era_of_Magic/utils/abilities.cfg:680
+#: ./Era_of_Magic/utils/abilities.cfg:698
 msgid "repairs +5"
 msgstr ""
 
 #. [heals]: id=i8repair
-#: ./Era_of_Magic/utils/abilities.cfg:684
+#: ./Era_of_Magic/utils/abilities.cfg:702
 msgid ""
 "Repairs +5:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the beginning of each turn.\n"
@@ -2940,12 +2952,12 @@ msgid ""
 msgstr ""
 
 #. [heals]: id=i8repair
-#: ./Era_of_Magic/utils/abilities.cfg:701
+#: ./Era_of_Magic/utils/abilities.cfg:719
 msgid "repairs +8"
 msgstr ""
 
 #. [heals]: id=i8repair
-#: ./Era_of_Magic/utils/abilities.cfg:705
+#: ./Era_of_Magic/utils/abilities.cfg:723
 msgid ""
 "Repairs +8:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the beginning of each turn.\n"
@@ -2954,84 +2966,84 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=i8grenade
-#: ./Era_of_Magic/utils/abilities.cfg:750 ./Era_of_Magic/utils/abilities.cfg:751
+#: ./Era_of_Magic/utils/abilities.cfg:768 ./Era_of_Magic/utils/abilities.cfg:769
 msgid "Grenade: When this attack is used, all units adjecent to a target get damage. Does not work on defense."
 msgstr ""
 
 #. [dummy]: id=runeaura
 #. [resistance]: id=runeauraactive
-#: ./Era_of_Magic/utils/abilities.cfg:758 ./Era_of_Magic/utils/abilities.cfg:863
+#: ./Era_of_Magic/utils/abilities.cfg:776 ./Era_of_Magic/utils/abilities.cfg:881
 msgid "rune aura"
 msgstr ""
 
 #. [dummy]: id=runeaura
-#: ./Era_of_Magic/utils/abilities.cfg:760
+#: ./Era_of_Magic/utils/abilities.cfg:778
 msgid ""
 "Rune Aura:\n"
 "When this ability is activated, all Rune Masters create special auras. Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, cold and arcane resistance. Other units receive a -99% bonus to fire, cold and arcane resistance. The transformation lasts for one turn. Transformated unit cannot attack."
 msgstr ""
 
 #. [set_menu_item]: id=runeaura_menu
-#: ./Era_of_Magic/utils/abilities.cfg:799
+#: ./Era_of_Magic/utils/abilities.cfg:817
 msgid "Activate Aura (24g)"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Era_of_Magic/utils/abilities.cfg:823
+#: ./Era_of_Magic/utils/abilities.cfg:841
 msgid "Activate aura? (cost: 24g)"
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Era_of_Magic/utils/abilities.cfg:825
+#: ./Era_of_Magic/utils/abilities.cfg:843
 msgid "No"
 msgstr ""
 
 #. [option]: speaker=unit
-#: ./Era_of_Magic/utils/abilities.cfg:831
+#: ./Era_of_Magic/utils/abilities.cfg:849
 msgid "Yes"
 msgstr ""
 
 #. [print]
-#: ./Era_of_Magic/utils/abilities.cfg:844
+#: ./Era_of_Magic/utils/abilities.cfg:862
 msgid "You don't have enough gold to activate the rune aura!"
 msgstr ""
 
 #. [resistance]: id=runeauraactive
-#: ./Era_of_Magic/utils/abilities.cfg:865
+#: ./Era_of_Magic/utils/abilities.cfg:883
 msgid ""
 "Rune Aura:\n"
 "Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, cold and arcane resistance. Other units receive a -99% bonus to fire, cold and arcane resistance."
 msgstr ""
 
 #. [damage]: id=swallow
-#: ./Era_of_Magic/utils/abilities.cfg:890
+#: ./Era_of_Magic/utils/abilities.cfg:908
 msgid "swallow +4"
 msgstr ""
 
 #. [damage]: id=swallow
-#: ./Era_of_Magic/utils/abilities.cfg:891
+#: ./Era_of_Magic/utils/abilities.cfg:909
 msgid "Swallow +4"
 msgstr ""
 
 #. [damage]: id=swallow
-#: ./Era_of_Magic/utils/abilities.cfg:893 ./Era_of_Magic/utils/abilities.cfg:895
+#: ./Era_of_Magic/utils/abilities.cfg:911 ./Era_of_Magic/utils/abilities.cfg:913
 msgid ""
 "Swallow +4:\n"
 "This unit gains 4 hitpoints added to its current health whenever it kills a living unit."
 msgstr ""
 
 #. [unstore_unit]
-#: ./Era_of_Magic/utils/abilities.cfg:921
+#: ./Era_of_Magic/utils/abilities.cfg:939
 msgid "4"
 msgstr ""
 
 #. [hides]: id=swampambush
-#: ./Era_of_Magic/utils/abilities.cfg:944 ./Era_of_Magic/utils/abilities.cfg:945
+#: ./Era_of_Magic/utils/abilities.cfg:962 ./Era_of_Magic/utils/abilities.cfg:963
 msgid "swamp ambush"
 msgstr ""
 
 #. [hides]: id=swampambush
-#: ./Era_of_Magic/utils/abilities.cfg:949
+#: ./Era_of_Magic/utils/abilities.cfg:967
 msgid ""
 "Swamp Ambush:\n"
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
@@ -3040,7 +3052,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=swampambush
-#: ./Era_of_Magic/utils/abilities.cfg:953
+#: ./Era_of_Magic/utils/abilities.cfg:971
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -3049,12 +3061,12 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=waterambush
-#: ./Era_of_Magic/utils/abilities.cfg:966 ./Era_of_Magic/utils/abilities.cfg:967
+#: ./Era_of_Magic/utils/abilities.cfg:984 ./Era_of_Magic/utils/abilities.cfg:985
 msgid "water ambush"
 msgstr ""
 
 #. [hides]: id=waterambush
-#: ./Era_of_Magic/utils/abilities.cfg:971
+#: ./Era_of_Magic/utils/abilities.cfg:989
 msgid ""
 "water Ambush:\n"
 "This unit can hide in water, and remain undetected by its enemies.\n"
@@ -3063,7 +3075,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=waterambush
-#: ./Era_of_Magic/utils/abilities.cfg:975
+#: ./Era_of_Magic/utils/abilities.cfg:993
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -3072,12 +3084,12 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=caveambush
-#: ./Era_of_Magic/utils/abilities.cfg:988 ./Era_of_Magic/utils/abilities.cfg:989
+#: ./Era_of_Magic/utils/abilities.cfg:1006 ./Era_of_Magic/utils/abilities.cfg:1007
 msgid "cave ambush"
 msgstr ""
 
 #. [hides]: id=caveambush
-#: ./Era_of_Magic/utils/abilities.cfg:993
+#: ./Era_of_Magic/utils/abilities.cfg:1011
 msgid ""
 "Cave Ambush:\n"
 "This unit can hide in cave, and remain undetected by its enemies.\n"
@@ -3086,7 +3098,7 @@ msgid ""
 msgstr ""
 
 #. [hides]: id=caveambush
-#: ./Era_of_Magic/utils/abilities.cfg:997
+#: ./Era_of_Magic/utils/abilities.cfg:1015
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -3095,44 +3107,44 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=regen4
-#: ./Era_of_Magic/utils/abilities.cfg:1011 ./Era_of_Magic/utils/abilities.cfg:1014
+#: ./Era_of_Magic/utils/abilities.cfg:1029 ./Era_of_Magic/utils/abilities.cfg:1032
 msgid "regenerates +4"
 msgstr ""
 
 #. [regenerate]: id=regen4
-#: ./Era_of_Magic/utils/abilities.cfg:1013 ./Era_of_Magic/utils/abilities.cfg:1016
+#: ./Era_of_Magic/utils/abilities.cfg:1031 ./Era_of_Magic/utils/abilities.cfg:1034
 msgid ""
 "Regenerates +4:\n"
 "At the begining of each turn this unit heals +4 hp. If it is poisoned, it will remove it instead of healing."
 msgstr ""
 
 #. [dummy]: id=i8awake
-#: ./Era_of_Magic/utils/abilities.cfg:1159
+#: ./Era_of_Magic/utils/abilities.cfg:1177
 msgid "awaken"
 msgstr ""
 
 #. [dummy]: id=i8awake
-#: ./Era_of_Magic/utils/abilities.cfg:1160
+#: ./Era_of_Magic/utils/abilities.cfg:1178
 msgid "Awaken: if a friendly adjacent unit with more than one hitpoint at the beginning of the battle dies, it is resurrected, gets +6 experience and remains in battle with one hitpoint. If it dies again (having one hitpoint), it will be killed for sure."
 msgstr ""
 
 #. [unstore_unit]
-#: ./Era_of_Magic/utils/abilities.cfg:1274 ./Era_of_Magic/utils/abilities.cfg:1344
+#: ./Era_of_Magic/utils/abilities.cfg:1292 ./Era_of_Magic/utils/abilities.cfg:1362
 msgid "female^awoken"
 msgstr ""
 
 #. [unstore_unit]
-#: ./Era_of_Magic/utils/abilities.cfg:1298 ./Era_of_Magic/utils/abilities.cfg:1368
+#: ./Era_of_Magic/utils/abilities.cfg:1316 ./Era_of_Magic/utils/abilities.cfg:1386
 msgid "awoken"
 msgstr ""
 
 #. [heals]: id=healing
-#: ./Era_of_Magic/utils/abilities.cfg:1389
+#: ./Era_of_Magic/utils/abilities.cfg:1407
 msgid "heals +2"
 msgstr ""
 
 #. [heals]: id=healing
-#: ./Era_of_Magic/utils/abilities.cfg:1393
+#: ./Era_of_Magic/utils/abilities.cfg:1411
 msgid ""
 "Heals +2:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each turn.\n"
@@ -3141,12 +3153,12 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=leadership
-#: ./Era_of_Magic/utils/abilities.cfg:1407 ./Era_of_Magic/utils/abilities.cfg:1440
+#: ./Era_of_Magic/utils/abilities.cfg:1425 ./Era_of_Magic/utils/abilities.cfg:1458
 msgid "inspire"
 msgstr ""
 
 #. [leadership]: id=leadership
-#: ./Era_of_Magic/utils/abilities.cfg:1412
+#: ./Era_of_Magic/utils/abilities.cfg:1430
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight better.\n"
@@ -3156,7 +3168,7 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=leadership
-#: ./Era_of_Magic/utils/abilities.cfg:1446
+#: ./Era_of_Magic/utils/abilities.cfg:1464
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight better.\n"
@@ -3167,12 +3179,12 @@ msgid ""
 msgstr ""
 
 #. [leadership]: id=terror
-#: ./Era_of_Magic/utils/abilities.cfg:1487 ./Era_of_Magic/utils/abilities.cfg:1523 ./Era_of_Magic/utils/abilities.cfg:1573
+#: ./Era_of_Magic/utils/abilities.cfg:1505 ./Era_of_Magic/utils/abilities.cfg:1541 ./Era_of_Magic/utils/abilities.cfg:1591
 msgid "awe"
 msgstr ""
 
 #. [leadership]: id=terror
-#: ./Era_of_Magic/utils/abilities.cfg:1491 ./Era_of_Magic/utils/abilities.cfg:1527 ./Era_of_Magic/utils/abilities.cfg:1577
+#: ./Era_of_Magic/utils/abilities.cfg:1509 ./Era_of_Magic/utils/abilities.cfg:1545 ./Era_of_Magic/utils/abilities.cfg:1595
 msgid ""
 "Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight worse.\n"
@@ -3181,24 +3193,24 @@ msgid ""
 msgstr ""
 
 #. [damage]: id=banish
-#: ./Era_of_Magic/utils/abilities.cfg:1635 ./Era_of_Magic/utils/abilities.cfg:1636
+#: ./Era_of_Magic/utils/abilities.cfg:1653 ./Era_of_Magic/utils/abilities.cfg:1654
 msgid "banish"
 msgstr ""
 
 #. [damage]: id=banish
-#: ./Era_of_Magic/utils/abilities.cfg:1638 ./Era_of_Magic/utils/abilities.cfg:1640
+#: ./Era_of_Magic/utils/abilities.cfg:1656 ./Era_of_Magic/utils/abilities.cfg:1658
 msgid ""
 "banish:\n"
 "If a Banisher hits an enemy magical unit, the enemy will turn into a DG 'Dimensional Gate', (this happens only if the target is exactly one level below the banisher). If the enemy is at least two levels below your banisher, it'll get completly destroyed. Any other enemy won't be affected."
 msgstr ""
 
 #. [leadership]: id=cob
-#: ./Era_of_Magic/utils/abilities.cfg:1782
+#: ./Era_of_Magic/utils/abilities.cfg:1800
 msgid "circle of banishment"
 msgstr ""
 
 #. [leadership]: id=cob
-#: ./Era_of_Magic/utils/abilities.cfg:1786
+#: ./Era_of_Magic/utils/abilities.cfg:1804
 msgid ""
 "circle of banishment:\n"
 "This unit can affect enemy magical units that are next to it, making them fight worse.\n"
@@ -3369,38 +3381,40 @@ msgstr ""
 #. [dummy]: id=summon_lvl3
 #. [dummy]: id=summon_lvl4
 #. [dummy]: id=summon_hs
+#. [dummy]: id=summon_ns
 #. [dummy]: id=mof
 #. [dummy]: id=mow
 #. [dummy]: id=moa
 #. [dummy]: id=guru
-#: ./Era_of_Magic/utils/summon.cfg:227 ./Era_of_Magic/utils/summon.cfg:278 ./Era_of_Magic/utils/summon.cfg:331 ./Era_of_Magic/utils/summon.cfg:384 ./Era_of_Magic/utils/summon.cfg:433 ./Era_of_Magic/utils/summon.cfg:482 ./Era_of_Magic/utils/summon.cfg:531
+#: ./Era_of_Magic/utils/summon.cfg:227 ./Era_of_Magic/utils/summon.cfg:278 ./Era_of_Magic/utils/summon.cfg:331 ./Era_of_Magic/utils/summon.cfg:379 ./Era_of_Magic/utils/summon.cfg:432 ./Era_of_Magic/utils/summon.cfg:481 ./Era_of_Magic/utils/summon.cfg:530 ./Era_of_Magic/utils/summon.cfg:579
 msgid "summon"
 msgstr ""
 
 #. [dummy]: id=summon_lvl3
 #. [dummy]: id=summon_lvl4
 #. [dummy]: id=summon_hs
+#. [dummy]: id=summon_ns
 #. [dummy]: id=mof
 #. [dummy]: id=mow
 #. [dummy]: id=moa
 #. [dummy]: id=guru
-#: ./Era_of_Magic/utils/summon.cfg:229 ./Era_of_Magic/utils/summon.cfg:280 ./Era_of_Magic/utils/summon.cfg:333 ./Era_of_Magic/utils/summon.cfg:386 ./Era_of_Magic/utils/summon.cfg:435 ./Era_of_Magic/utils/summon.cfg:484 ./Era_of_Magic/utils/summon.cfg:533
+#: ./Era_of_Magic/utils/summon.cfg:229 ./Era_of_Magic/utils/summon.cfg:280 ./Era_of_Magic/utils/summon.cfg:333 ./Era_of_Magic/utils/summon.cfg:381 ./Era_of_Magic/utils/summon.cfg:434 ./Era_of_Magic/utils/summon.cfg:483 ./Era_of_Magic/utils/summon.cfg:532 ./Era_of_Magic/utils/summon.cfg:581
 msgid ""
 "Summon:\n"
 "this unit can summon new units near him, but not in villages."
 msgstr ""
 
-#: ./Era_of_Magic/utils/summon.cfg:270 ./Era_of_Magic/utils/summon.cfg:325 ./Era_of_Magic/utils/summon.cfg:373 ./Era_of_Magic/utils/summon.cfg:426 ./Era_of_Magic/utils/summon.cfg:475 ./Era_of_Magic/utils/summon.cfg:524 ./Era_of_Magic/utils/summon.cfg:573 ./Era_of_Magic/utils/summon.cfg:626
+#: ./Era_of_Magic/utils/summon.cfg:270 ./Era_of_Magic/utils/summon.cfg:325 ./Era_of_Magic/utils/summon.cfg:373 ./Era_of_Magic/utils/summon.cfg:421 ./Era_of_Magic/utils/summon.cfg:474 ./Era_of_Magic/utils/summon.cfg:523 ./Era_of_Magic/utils/summon.cfg:572 ./Era_of_Magic/utils/summon.cfg:621 ./Era_of_Magic/utils/summon.cfg:674
 msgid " this unit can create other units in the near free spaces, but not in villages."
 msgstr ""
 
 #. [dummy]: id=summon_roc
-#: ./Era_of_Magic/utils/summon.cfg:584
+#: ./Era_of_Magic/utils/summon.cfg:632
 msgid "summon roc"
 msgstr ""
 
 #. [dummy]: id=summon_roc
-#: ./Era_of_Magic/utils/summon.cfg:586
+#: ./Era_of_Magic/utils/summon.cfg:634
 msgid ""
 "Summon Roc:\n"
 "this unit can summon new units near him, but not in villages."
